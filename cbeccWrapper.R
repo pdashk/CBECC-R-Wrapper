@@ -1,11 +1,12 @@
 ## CBECC-Res 2016 Auto-Run Script
 ## Phi Nguyen, Energy Solutions
-## Last Edit: June 8, 2017
+## Last Edit: September 22, 2017
 
 ## NOTES ------------------------------------------------------------------------------------------
 # chose to disable the feature that allows keep/removal of output because file size pretty small (7kb), and would prefer to have CBECC analayses completed as soon as possible. Worth giving up disk space for slightly faster completion
 # will read files after all CBECC runs are done
 # run by sourcing cbeccWrapper.R (this file)
+# if CBECC crashes or is closed, then might receive errors before combining
 
 ## SETUP ------------------------------------------------------------------------------------------
 ##load lirbaries, working directory, default variables

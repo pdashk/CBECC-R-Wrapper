@@ -1,0 +1,3250 @@
+ $ RulesetFilename:"CA Res 2016.bin"
+ $ Proj           :List of 106
+  ..$ Name               :"1 Story Example Energy Design Rating"
+  ..$ Ruleset            :"CA Residential 2016, Vers. 1.0 (CA Res 2016.bin)"
+  ..$ SoftwareVersion    :"CBECC-Res 2016.2.1 (868)"
+  ..$ BEMVersion         :"5"
+  ..$ CreateDate         :"1493067347"
+  ..$ ModDate            :"1493067347"
+  ..$ RunDate            :"1474306969"
+  ..$ ProjFileName       :"1StoryExample3EDR.ribd16"
+  ..$ RunTitle           :"1 Story Example Rev 3"
+  ..$ AnalysisType       :"Proposed and Standard"
+  ..$ StandardsVersion   :"Compliance 2017"
+  ..$ AnalysisReport     :"Building Summary (csv)"
+  ..$ ComplianceReportPDF:"1"
+  ..$ ComplianceReportXML:"0"
+  ..$ PVCompCredit       :"0"
+  ..$ PVWInputs          :"Simplified"
+  ..$ PVWDCSysSize       :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"0"
+  ..$ PVWDCSysSize       :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"1"
+  ..$ PVWDCSysSize       :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"2"
+  ..$ PVWDCSysSize       :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"3"
+  ..$ PVWDCSysSize       :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"4"
+  ..$ PVWModuleType      :List of 2
+  .. ..$ text  :"Standard"
+  .. ..$ .attrs:"0"
+  ..$ PVWModuleType      :List of 2
+  .. ..$ text  :"Standard"
+  .. ..$ .attrs:"1"
+  ..$ PVWModuleType      :List of 2
+  .. ..$ text  :"Standard"
+  .. ..$ .attrs:"2"
+  ..$ PVWModuleType      :List of 2
+  .. ..$ text  :"Standard"
+  .. ..$ .attrs:"3"
+  ..$ PVWModuleType      :List of 2
+  .. ..$ text  :"Standard"
+  .. ..$ .attrs:"4"
+  ..$ PVWCalFlexInstall  :List of 2
+  .. ..$ text  :"1"
+  .. ..$ .attrs:"0"
+  ..$ PVWCalFlexInstall  :List of 2
+  .. ..$ text  :"1"
+  .. ..$ .attrs:"1"
+  ..$ PVWCalFlexInstall  :List of 2
+  .. ..$ text  :"1"
+  .. ..$ .attrs:"2"
+  ..$ PVWCalFlexInstall  :List of 2
+  .. ..$ text  :"1"
+  .. ..$ .attrs:"3"
+  ..$ PVWCalFlexInstall  :List of 2
+  .. ..$ text  :"1"
+  .. ..$ .attrs:"4"
+  ..$ PVWArrayTiltInput  :List of 2
+  .. ..$ text  :"deg"
+  .. ..$ .attrs:"0"
+  ..$ PVWArrayTiltInput  :List of 2
+  .. ..$ text  :"deg"
+  .. ..$ .attrs:"1"
+  ..$ PVWArrayTiltInput  :List of 2
+  .. ..$ text  :"deg"
+  .. ..$ .attrs:"2"
+  ..$ PVWArrayTiltInput  :List of 2
+  .. ..$ text  :"deg"
+  .. ..$ .attrs:"3"
+  ..$ PVWArrayTiltInput  :List of 2
+  .. ..$ text  :"deg"
+  .. ..$ .attrs:"4"
+  ..$ SimSpeedOption     :"Compliance"
+  ..$ DesignRatingCalcs  :"1"
+  ..$ StdDesignBase      :"CA2016"
+  ..$ DRtgLtgCredit      :"0"
+  ..$ DRtgLtgReduction   :"0"
+  ..$ IsCAHPElecUtil     :"1"
+  ..$ IsCAHPNGasUtil     :"1"
+  ..$ IsCAHPDOEChalHome  :"0"
+  ..$ IsCAHPFutureCode   :"0"
+  ..$ ClimateZone        :"CZ12  (Sacramento)"
+  ..$ Address            :"1516 Ninth St"
+  ..$ ZipCode            :"95814"
+  ..$ RunScope           :"Newly Constructed"
+  ..$ City               :"Sacramento, CA"
+  ..$ IsMultiFamily      :"0"
+  ..$ CentralMFamLaundry :"0"
+  ..$ DfltMFamLaundryZn  :"Conditioned"
+  ..$ ZonalControl       :"0"
+  ..$ Description        :"2100 ft2 CEC Prototype with tile roof"
+  ..$ ACH50              :"5"
+  ..$ Status             :"New"
+  ..$ IsVerified         :"0"
+  ..$ IsAddAlone         :"0"
+  ..$ AdditionCFAFrac    :"1"
+  ..$ AlterIncl2Categs   :"0"
+  ..$ InsulConsQuality   :"Standard"
+  ..$ NumBedrooms        :"3"
+  ..$ NumAddBedrooms     :"0"
+  ..$ AllOrientations    :"0"
+  ..$ FrontOrientation   :"0"
+  ..$ NatGasAvailable    :"1"
+  ..$ GasType            :"Natural Gas"
+  ..$ HasGarage          :"1"
+  ..$ UnitIAQOption      :List of 2
+  .. ..$ text  :"Default Minimum IAQ Fan"
+  .. ..$ .attrs:"0"
+  ..$ UnitIAQFanCnt1     :List of 2
+  .. ..$ text  :"1"
+  .. ..$ .attrs:"0"
+  ..$ UnitIAQFanCnt2     :List of 2
+  .. ..$ text  :"1"
+  .. ..$ .attrs:"0"
+  ..$ UnitIAQFanCnt3     :List of 2
+  .. ..$ text  :"1"
+  .. ..$ .attrs:"0"
+  ..$ UnitIAQFanCnt4     :List of 2
+  .. ..$ text  :"1"
+  .. ..$ .attrs:"0"
+  ..$ UnitIAQZone1       :List of 2
+  .. ..$ text  :"Conditioned"
+  .. ..$ .attrs:"0"
+  ..$ UnitIAQZone2       :List of 2
+  .. ..$ text  :"Conditioned"
+  .. ..$ .attrs:"0"
+  ..$ UnitIAQZone3       :List of 2
+  .. ..$ text  :"Conditioned"
+  .. ..$ .attrs:"0"
+  ..$ UnitIAQZone4       :List of 2
+  .. ..$ text  :"Conditioned"
+  .. ..$ .attrs:"0"
+  ..$ UnitClVentOption   :"Default Prescriptive Whole House Fan"
+  ..$ UnitClVentZone     :List of 2
+  .. ..$ text  :"Conditioned"
+  .. ..$ .attrs:"0"
+  ..$ UnitClVentZone     :List of 2
+  .. ..$ text  :"Conditioned"
+  .. ..$ .attrs:"1"
+  ..$ UnitClVentZone     :List of 2
+  .. ..$ text  :"Conditioned"
+  .. ..$ .attrs:"2"
+  ..$ UnitClVentZone     :List of 2
+  .. ..$ text  :"Conditioned"
+  .. ..$ .attrs:"3"
+  ..$ UnitClVentZone     :List of 2
+  .. ..$ text  :"Conditioned"
+  .. ..$ .attrs:"4"
+  ..$ UnitClVentZone     :List of 2
+  .. ..$ text  :"Conditioned"
+  .. ..$ .attrs:"5"
+  ..$ ApplRefrigZone     :List of 2
+  .. ..$ text  :"Conditioned"
+  .. ..$ .attrs:"0"
+  ..$ ApplWasherZone     :List of 2
+  .. ..$ text  :"Conditioned"
+  .. ..$ .attrs:"0"
+  ..$ ApplDryerZone      :List of 2
+  .. ..$ text  :"Conditioned"
+  .. ..$ .attrs:"0"
+  ..$ ApplCookZone       :List of 2
+  .. ..$ text  :"Conditioned"
+  .. ..$ .attrs:"0"
+  ..$ ApplDishZone       :List of 2
+  .. ..$ text  :"Conditioned"
+  .. ..$ .attrs:"0"
+  ..$ Appl_HaveRefrig    :List of 2
+  .. ..$ text  :"1"
+  .. ..$ .attrs:"0"
+  ..$ Appl_HaveDish      :List of 2
+  .. ..$ text  :"1"
+  .. ..$ .attrs:"0"
+  ..$ Appl_HaveCook      :List of 2
+  .. ..$ text  :"1"
+  .. ..$ .attrs:"0"
+  ..$ Appl_HaveWasher    :List of 2
+  .. ..$ text  :"1"
+  .. ..$ .attrs:"0"
+  ..$ Appl_HaveDryer     :List of 2
+  .. ..$ text  :"1"
+  .. ..$ .attrs:"0"
+  ..$ ApplCookFuel       :List of 2
+  .. ..$ text  :"Gas"
+  .. ..$ .attrs:"0"
+  ..$ ApplDryerFuel      :List of 2
+  .. ..$ text  :"Gas"
+  .. ..$ .attrs:"0"
+  ..$ Appl_RefrigUsage   :List of 2
+  .. ..$ text  :"565"
+  .. ..$ .attrs:"0"
+  ..$ ApplRefrigEffMethod:List of 2
+  .. ..$ text  :"from # bedrooms/unit"
+  .. ..$ .attrs:"0"
+  ..$ ApplDishUsageMethod:List of 2
+  .. ..$ text  :"from # bedrooms/unit"
+  .. ..$ .attrs:"0"
+  ..$ ResultsCurrentMsg  :"(not current)"
+  ..$ Garage             :List of 9
+  .. ..$ Name             :"Garage"
+  .. ..$ Area             :"440"
+  .. ..$ Volume           :"3960"
+  .. ..$ Bottom           :"0.67"
+  .. ..$ CeilingBelowAttic:List of 6
+  .. .. ..$ Name        :"Gar Ceiling"
+  .. .. ..$ Status      :"New"
+  .. .. ..$ IsVerified  :"0"
+  .. .. ..$ Area        :"440"
+  .. .. ..$ Construction:"R0 ClgBlwAttic Cons"
+  .. .. ..$ AtticZone   :"Gar Attic "
+  .. ..$ ExtWall          :List of 9
+  .. .. ..$ Name            :"Gwall Front"
+  .. .. ..$ Status          :"New"
+  .. .. ..$ IsVerified      :"0"
+  .. .. ..$ Orientation     :"Front"
+  .. .. ..$ OrientationValue:"0"
+  .. .. ..$ Area            :"180"
+  .. .. ..$ Construction    :"Garage Ext Wall 2"
+  .. .. ..$ Tilt            :"90"
+  .. .. ..$ Door            :List of 6
+  .. .. .. ..$ Name      :"GDoor"
+  .. .. .. ..$ Status    :"New"
+  .. .. .. ..$ IsVerified:"0"
+  .. .. .. ..$ Area      :"108"
+  .. .. .. ..$ Ufactor   :"1"
+  .. .. .. ..$ exUfactor :"1"
+  .. ..$ ExtWall          :List of 8
+  .. .. ..$ Name            :"Gwall Left"
+  .. .. ..$ Status          :"New"
+  .. .. ..$ IsVerified      :"0"
+  .. .. ..$ Orientation     :"Left"
+  .. .. ..$ OrientationValue:"90"
+  .. .. ..$ Area            :"198"
+  .. .. ..$ Construction    :"Garage Ext Wall 2"
+  .. .. ..$ Tilt            :"90"
+  .. ..$ ExtWall          :List of 8
+  .. .. ..$ Name            :"Gwall Right"
+  .. .. ..$ Status          :"New"
+  .. .. ..$ IsVerified      :"0"
+  .. .. ..$ Orientation     :"Right"
+  .. .. ..$ OrientationValue:"270"
+  .. .. ..$ Area            :"108"
+  .. .. ..$ Construction    :"Garage Ext Wall 2"
+  .. .. ..$ Tilt            :"90"
+  .. ..$ SlabFloor        :List of 12
+  .. .. ..$ Name             :"Gslab"
+  .. .. ..$ Status           :"New"
+  .. .. ..$ IsVerified       :"0"
+  .. .. ..$ Area             :"440"
+  .. .. ..$ FloorZ           :"0"
+  .. .. ..$ Surface          :"Exposed"
+  .. .. ..$ Perimeter        :"44"
+  .. .. ..$ HeatedSlab       :"0"
+  .. .. ..$ EdgeInsulation   :"0"
+  .. .. ..$ EdgeInsulOption  :"R-5, 8 inches"
+  .. .. ..$ exSurface        :"Default (80% carpeted/covered, 20% exposed)"
+  .. .. ..$ exEdgeInsulOption:"R-5, 8 inches"
+  ..$ Attic              :List of 8
+  .. ..$ Name          :"Gar Attic "
+  .. ..$ Type          :"Ventilated"
+  .. ..$ Status        :"New"
+  .. ..$ IsVerified    :"0"
+  .. ..$ RoofRise      :"5"
+  .. ..$ Construction  :"Tile Roof"
+  .. ..$ RoofSolReflect:"0.2"
+  .. ..$ RoofEmiss     :"0.85"
+  ..$ Zone               :List of 25
+  .. ..$ Name             :"Conditioned"
+  .. ..$ Type             :"Conditioned"
+  .. ..$ Status           :"New"
+  .. ..$ HVACSysStatus    :"New"
+  .. ..$ HVACSysVerified  :"0"
+  .. ..$ HVACSystem       :"HVAC System 1"
+  .. ..$ DHWSys1Status    :"New"
+  .. ..$ DHWSys1Verified  :"0"
+  .. ..$ DHWSys1          :"DHW System"
+  .. ..$ DHWSys2Status    :"New"
+  .. ..$ DHWSys2Verified  :"0"
+  .. ..$ FloorArea        :"2100"
+  .. ..$ CeilingHeight    :"9"
+  .. ..$ FloorHeight      :"10"
+  .. ..$ WinHeadHeight    :"7.67"
+  .. ..$ Bottom           :"0.7"
+  .. ..$ NumStories       :"1"
+  .. ..$ CeilingBelowAttic:List of 6
+  .. .. ..$ Name        :"Ceiling (below attic) 1"
+  .. .. ..$ Status      :"New"
+  .. .. ..$ IsVerified  :"0"
+  .. .. ..$ Area        :"2100"
+  .. .. ..$ Construction:"R38 Ceiling below attic"
+  .. .. ..$ AtticZone   :"Attic "
+  .. ..$ ExtWall          :List of 11
+  .. .. ..$ Name            :"Front"
+  .. .. ..$ Status          :"New"
+  .. .. ..$ IsVerified      :"0"
+  .. .. ..$ Orientation     :"Front"
+  .. .. ..$ OrientationValue:"0"
+  .. .. ..$ Area            :"270"
+  .. .. ..$ Construction    :"R19 R5 Stucco Wall"
+  .. .. ..$ Tilt            :"90"
+  .. .. ..$ Win             :List of 44
+  .. .. .. ..$ Name               :"F1"
+  .. .. .. ..$ Status             :"New"
+  .. .. .. ..$ IsVerified         :"0"
+  .. .. .. ..$ WinType            :"Fix"
+  .. .. .. ..$ SpecMethod         :"Window Dimensions (required for fins/overhangs)"
+  .. .. .. ..$ Area               :"50"
+  .. .. .. ..$ Height             :"5"
+  .. .. .. ..$ Width              :"10"
+  .. .. .. ..$ Multiplier         :"1"
+  .. .. .. ..$ UfactorSHGCSource  :"NFRC"
+  .. .. .. ..$ ExteriorShade      :"Insect Screen (default)"
+  .. .. .. ..$ exArea             :"50"
+  .. .. .. ..$ exHeight           :"5"
+  .. .. .. ..$ exWidth            :"10"
+  .. .. .. ..$ exMultiplier       :"1"
+  .. .. .. ..$ exUfactorSHGCSource:"NFRC"
+  .. .. .. ..$ exExteriorShade    :"Insect Screen (default)"
+  .. .. .. ..$ ModelFinsOverhang  :"1"
+  .. .. .. ..$ OverhangDepth      :"1"
+  .. .. .. ..$ OverhangDistUp     :"1.33"
+  .. .. .. ..$ OverhangExL        :"3"
+  .. .. .. ..$ OverhangExR        :"28"
+  .. .. .. ..$ OverhangFlap       :"0.4"
+  .. .. .. ..$ exOverhangDepth    :"0"
+  .. .. .. ..$ exOverhangDistUp   :"0"
+  .. .. .. ..$ exOverhangExL      :"0"
+  .. .. .. ..$ exOverhangExR      :"0"
+  .. .. .. ..$ exOverhangFlap     :"0"
+  .. .. .. ..$ LeftFinDepth       :"0"
+  .. .. .. ..$ LeftFinTopUp       :"0"
+  .. .. .. ..$ LeftFinDistL       :"0"
+  .. .. .. ..$ LeftFinBotUp       :"0"
+  .. .. .. ..$ exLeftFinDepth     :"0"
+  .. .. .. ..$ exLeftFinTopUp     :"0"
+  .. .. .. ..$ exLeftFinDistL     :"0"
+  .. .. .. ..$ exLeftFinBotUp     :"0"
+  .. .. .. ..$ RightFinDepth      :"0"
+  .. .. .. ..$ RightFinTopUp      :"0"
+  .. .. .. ..$ RightFinDistR      :"0"
+  .. .. .. ..$ RightFinBotUp      :"0"
+  .. .. .. ..$ exRightFinDepth    :"0"
+  .. .. .. ..$ exRightFinTopUp    :"0"
+  .. .. .. ..$ exRightFinDistR    :"0"
+  .. .. .. ..$ exRightFinBotUp    :"0"
+  .. .. ..$ Win             :List of 44
+  .. .. .. ..$ Name               :"F2"
+  .. .. .. ..$ Status             :"New"
+  .. .. .. ..$ IsVerified         :"0"
+  .. .. .. ..$ WinType            :"Fix"
+  .. .. .. ..$ SpecMethod         :"Window Dimensions (required for fins/overhangs)"
+  .. .. .. ..$ Area               :"50"
+  .. .. .. ..$ Height             :"5"
+  .. .. .. ..$ Width              :"10"
+  .. .. .. ..$ Multiplier         :"1"
+  .. .. .. ..$ UfactorSHGCSource  :"NFRC"
+  .. .. .. ..$ ExteriorShade      :"Insect Screen (default)"
+  .. .. .. ..$ exArea             :"50"
+  .. .. .. ..$ exHeight           :"5"
+  .. .. .. ..$ exWidth            :"10"
+  .. .. .. ..$ exMultiplier       :"1"
+  .. .. .. ..$ exUfactorSHGCSource:"NFRC"
+  .. .. .. ..$ exExteriorShade    :"Insect Screen (default)"
+  .. .. .. ..$ ModelFinsOverhang  :"1"
+  .. .. .. ..$ OverhangDepth      :"1"
+  .. .. .. ..$ OverhangDistUp     :"1.33"
+  .. .. .. ..$ OverhangExL        :"28"
+  .. .. .. ..$ OverhangExR        :"3"
+  .. .. .. ..$ OverhangFlap       :"0.4"
+  .. .. .. ..$ exOverhangDepth    :"0"
+  .. .. .. ..$ exOverhangDistUp   :"0"
+  .. .. .. ..$ exOverhangExL      :"0"
+  .. .. .. ..$ exOverhangExR      :"0"
+  .. .. .. ..$ exOverhangFlap     :"0"
+  .. .. .. ..$ LeftFinDepth       :"0"
+  .. .. .. ..$ LeftFinTopUp       :"0"
+  .. .. .. ..$ LeftFinDistL       :"0"
+  .. .. .. ..$ LeftFinBotUp       :"0"
+  .. .. .. ..$ exLeftFinDepth     :"0"
+  .. .. .. ..$ exLeftFinTopUp     :"0"
+  .. .. .. ..$ exLeftFinDistL     :"0"
+  .. .. .. ..$ exLeftFinBotUp     :"0"
+  .. .. .. ..$ RightFinDepth      :"0"
+  .. .. .. ..$ RightFinTopUp      :"0"
+  .. .. .. ..$ RightFinDistR      :"0"
+  .. .. .. ..$ RightFinBotUp      :"0"
+  .. .. .. ..$ exRightFinDepth    :"0"
+  .. .. .. ..$ exRightFinTopUp    :"0"
+  .. .. .. ..$ exRightFinDistR    :"0"
+  .. .. .. ..$ exRightFinBotUp    :"0"
+  .. .. ..$ Door            :List of 6
+  .. .. .. ..$ Name      :"Front Dr"
+  .. .. .. ..$ Status    :"New"
+  .. .. .. ..$ IsVerified:"0"
+  .. .. .. ..$ Area      :"20"
+  .. .. .. ..$ Ufactor   :"0.5"
+  .. .. .. ..$ exUfactor :"0.5"
+  .. ..$ ExtWall          :List of 9
+  .. .. ..$ Name            :"Left"
+  .. .. ..$ Status          :"New"
+  .. .. ..$ IsVerified      :"0"
+  .. .. ..$ Orientation     :"Left"
+  .. .. ..$ OrientationValue:"90"
+  .. .. ..$ Area            :"324"
+  .. .. ..$ Construction    :"R19 R5 Stucco Wall"
+  .. .. ..$ Tilt            :"90"
+  .. .. ..$ Win             :List of 44
+  .. .. .. ..$ Name               :"L1"
+  .. .. .. ..$ Status             :"New"
+  .. .. .. ..$ IsVerified         :"0"
+  .. .. .. ..$ WinType            :"Oper"
+  .. .. .. ..$ SpecMethod         :"Window Dimensions (required for fins/overhangs)"
+  .. .. .. ..$ Area               :"28.02"
+  .. .. .. ..$ Height             :"4.67"
+  .. .. .. ..$ Width              :"6"
+  .. .. .. ..$ Multiplier         :"2"
+  .. .. .. ..$ UfactorSHGCSource  :"NFRC"
+  .. .. .. ..$ ExteriorShade      :"Insect Screen (default)"
+  .. .. .. ..$ exArea             :"28.02"
+  .. .. .. ..$ exHeight           :"4.67"
+  .. .. .. ..$ exWidth            :"6"
+  .. .. .. ..$ exMultiplier       :"2"
+  .. .. .. ..$ exUfactorSHGCSource:"NFRC"
+  .. .. .. ..$ exExteriorShade    :"Insect Screen (default)"
+  .. .. .. ..$ ModelFinsOverhang  :"1"
+  .. .. .. ..$ OverhangDepth      :"1"
+  .. .. .. ..$ OverhangDistUp     :"1.33"
+  .. .. .. ..$ OverhangExL        :"6"
+  .. .. .. ..$ OverhangExR        :"8"
+  .. .. .. ..$ OverhangFlap       :"0.4"
+  .. .. .. ..$ exOverhangDepth    :"0"
+  .. .. .. ..$ exOverhangDistUp   :"0"
+  .. .. .. ..$ exOverhangExL      :"0"
+  .. .. .. ..$ exOverhangExR      :"0"
+  .. .. .. ..$ exOverhangFlap     :"0"
+  .. .. .. ..$ LeftFinDepth       :"0"
+  .. .. .. ..$ LeftFinTopUp       :"0"
+  .. .. .. ..$ LeftFinDistL       :"0"
+  .. .. .. ..$ LeftFinBotUp       :"0"
+  .. .. .. ..$ exLeftFinDepth     :"0"
+  .. .. .. ..$ exLeftFinTopUp     :"0"
+  .. .. .. ..$ exLeftFinDistL     :"0"
+  .. .. .. ..$ exLeftFinBotUp     :"0"
+  .. .. .. ..$ RightFinDepth      :"0"
+  .. .. .. ..$ RightFinTopUp      :"0"
+  .. .. .. ..$ RightFinDistR      :"0"
+  .. .. .. ..$ RightFinBotUp      :"0"
+  .. .. .. ..$ exRightFinDepth    :"0"
+  .. .. .. ..$ exRightFinTopUp    :"0"
+  .. .. .. ..$ exRightFinDistR    :"0"
+  .. .. .. ..$ exRightFinBotUp    :"0"
+  .. ..$ ExtWall          :List of 11
+  .. .. ..$ Name            :"Back"
+  .. .. ..$ Status          :"New"
+  .. .. ..$ IsVerified      :"0"
+  .. .. ..$ Orientation     :"Back"
+  .. .. ..$ OrientationValue:"180"
+  .. .. ..$ Area            :"450"
+  .. .. ..$ Construction    :"R19 R5 Stucco Wall"
+  .. .. ..$ Tilt            :"90"
+  .. .. ..$ Win             :List of 44
+  .. .. .. ..$ Name               :"B1 SGD"
+  .. .. .. ..$ Status             :"New"
+  .. .. .. ..$ IsVerified         :"0"
+  .. .. .. ..$ WinType            :"SGD"
+  .. .. .. ..$ SpecMethod         :"Window Dimensions (required for fins/overhangs)"
+  .. .. .. ..$ Area               :"61.36"
+  .. .. .. ..$ Height             :"7.67"
+  .. .. .. ..$ Width              :"8"
+  .. .. .. ..$ Multiplier         :"1"
+  .. .. .. ..$ UfactorSHGCSource  :"NFRC"
+  .. .. .. ..$ ExteriorShade      :"Insect Screen (default)"
+  .. .. .. ..$ exArea             :"61.36"
+  .. .. .. ..$ exHeight           :"7.67"
+  .. .. .. ..$ exWidth            :"8"
+  .. .. .. ..$ exMultiplier       :"1"
+  .. .. .. ..$ exUfactorSHGCSource:"NFRC"
+  .. .. .. ..$ exExteriorShade    :"Insect Screen (default)"
+  .. .. .. ..$ ModelFinsOverhang  :"1"
+  .. .. .. ..$ OverhangDepth      :"6"
+  .. .. .. ..$ OverhangDistUp     :"1.33"
+  .. .. .. ..$ OverhangExL        :"4"
+  .. .. .. ..$ OverhangExR        :"40"
+  .. .. .. ..$ OverhangFlap       :"0.4"
+  .. .. .. ..$ exOverhangDepth    :"0"
+  .. .. .. ..$ exOverhangDistUp   :"0"
+  .. .. .. ..$ exOverhangExL      :"0"
+  .. .. .. ..$ exOverhangExR      :"0"
+  .. .. .. ..$ exOverhangFlap     :"0"
+  .. .. .. ..$ LeftFinDepth       :"0"
+  .. .. .. ..$ LeftFinTopUp       :"0"
+  .. .. .. ..$ LeftFinDistL       :"0"
+  .. .. .. ..$ LeftFinBotUp       :"0"
+  .. .. .. ..$ exLeftFinDepth     :"0"
+  .. .. .. ..$ exLeftFinTopUp     :"0"
+  .. .. .. ..$ exLeftFinDistL     :"0"
+  .. .. .. ..$ exLeftFinBotUp     :"0"
+  .. .. .. ..$ RightFinDepth      :"0"
+  .. .. .. ..$ RightFinTopUp      :"0"
+  .. .. .. ..$ RightFinDistR      :"0"
+  .. .. .. ..$ RightFinBotUp      :"0"
+  .. .. .. ..$ exRightFinDepth    :"0"
+  .. .. .. ..$ exRightFinTopUp    :"0"
+  .. .. .. ..$ exRightFinDistR    :"0"
+  .. .. .. ..$ exRightFinBotUp    :"0"
+  .. .. ..$ Win             :List of 44
+  .. .. .. ..$ Name               :"B2"
+  .. .. .. ..$ Status             :"New"
+  .. .. .. ..$ IsVerified         :"0"
+  .. .. .. ..$ WinType            :"Oper"
+  .. .. .. ..$ SpecMethod         :"Window Dimensions (required for fins/overhangs)"
+  .. .. .. ..$ Area               :"28.2"
+  .. .. .. ..$ Height             :"4.7"
+  .. .. .. ..$ Width              :"6"
+  .. .. .. ..$ Multiplier         :"3"
+  .. .. .. ..$ UfactorSHGCSource  :"NFRC"
+  .. .. .. ..$ ExteriorShade      :"Insect Screen (default)"
+  .. .. .. ..$ exArea             :"28.2"
+  .. .. .. ..$ exHeight           :"4.7"
+  .. .. .. ..$ exWidth            :"6"
+  .. .. .. ..$ exMultiplier       :"3"
+  .. .. .. ..$ exUfactorSHGCSource:"NFRC"
+  .. .. .. ..$ exExteriorShade    :"Insect Screen (default)"
+  .. .. .. ..$ ModelFinsOverhang  :"1"
+  .. .. .. ..$ OverhangDepth      :"6"
+  .. .. .. ..$ OverhangDistUp     :"1.33"
+  .. .. .. ..$ OverhangExL        :"23"
+  .. .. .. ..$ OverhangExR        :"23"
+  .. .. .. ..$ OverhangFlap       :"0.4"
+  .. .. .. ..$ exOverhangDepth    :"0"
+  .. .. .. ..$ exOverhangDistUp   :"0"
+  .. .. .. ..$ exOverhangExL      :"0"
+  .. .. .. ..$ exOverhangExR      :"0"
+  .. .. .. ..$ exOverhangFlap     :"0"
+  .. .. .. ..$ LeftFinDepth       :"0"
+  .. .. .. ..$ LeftFinTopUp       :"0"
+  .. .. .. ..$ LeftFinDistL       :"0"
+  .. .. .. ..$ LeftFinBotUp       :"0"
+  .. .. .. ..$ exLeftFinDepth     :"0"
+  .. .. .. ..$ exLeftFinTopUp     :"0"
+  .. .. .. ..$ exLeftFinDistL     :"0"
+  .. .. .. ..$ exLeftFinBotUp     :"0"
+  .. .. .. ..$ RightFinDepth      :"0"
+  .. .. .. ..$ RightFinTopUp      :"0"
+  .. .. .. ..$ RightFinDistR      :"0"
+  .. .. .. ..$ RightFinBotUp      :"0"
+  .. .. .. ..$ exRightFinDepth    :"0"
+  .. .. .. ..$ exRightFinTopUp    :"0"
+  .. .. .. ..$ exRightFinDistR    :"0"
+  .. .. .. ..$ exRightFinBotUp    :"0"
+  .. .. ..$ Win             :List of 44
+  .. .. .. ..$ Name               :"B3 SGD"
+  .. .. .. ..$ Status             :"New"
+  .. .. .. ..$ IsVerified         :"0"
+  .. .. .. ..$ WinType            :"SGD"
+  .. .. .. ..$ SpecMethod         :"Window Dimensions (required for fins/overhangs)"
+  .. .. .. ..$ Area               :"61.36"
+  .. .. .. ..$ Height             :"7.67"
+  .. .. .. ..$ Width              :"8"
+  .. .. .. ..$ Multiplier         :"1"
+  .. .. .. ..$ UfactorSHGCSource  :"NFRC"
+  .. .. .. ..$ ExteriorShade      :"Insect Screen (default)"
+  .. .. .. ..$ exArea             :"61.36"
+  .. .. .. ..$ exHeight           :"7.67"
+  .. .. .. ..$ exWidth            :"8"
+  .. .. .. ..$ exMultiplier       :"1"
+  .. .. .. ..$ exUfactorSHGCSource:"NFRC"
+  .. .. .. ..$ exExteriorShade    :"Insect Screen (default)"
+  .. .. .. ..$ ModelFinsOverhang  :"1"
+  .. .. .. ..$ OverhangDepth      :"6"
+  .. .. .. ..$ OverhangDistUp     :"1.33"
+  .. .. .. ..$ OverhangExL        :"40"
+  .. .. .. ..$ OverhangExR        :"4"
+  .. .. .. ..$ OverhangFlap       :"0.4"
+  .. .. .. ..$ exOverhangDepth    :"0"
+  .. .. .. ..$ exOverhangDistUp   :"0"
+  .. .. .. ..$ exOverhangExL      :"0"
+  .. .. .. ..$ exOverhangExR      :"0"
+  .. .. .. ..$ exOverhangFlap     :"0"
+  .. .. .. ..$ LeftFinDepth       :"0"
+  .. .. .. ..$ LeftFinTopUp       :"0"
+  .. .. .. ..$ LeftFinDistL       :"0"
+  .. .. .. ..$ LeftFinBotUp       :"0"
+  .. .. .. ..$ exLeftFinDepth     :"0"
+  .. .. .. ..$ exLeftFinTopUp     :"0"
+  .. .. .. ..$ exLeftFinDistL     :"0"
+  .. .. .. ..$ exLeftFinBotUp     :"0"
+  .. .. .. ..$ RightFinDepth      :"0"
+  .. .. .. ..$ RightFinTopUp      :"0"
+  .. .. .. ..$ RightFinDistR      :"0"
+  .. .. .. ..$ RightFinBotUp      :"0"
+  .. .. .. ..$ exRightFinDepth    :"0"
+  .. .. .. ..$ exRightFinTopUp    :"0"
+  .. .. .. ..$ exRightFinDistR    :"0"
+  .. .. .. ..$ exRightFinBotUp    :"0"
+  .. ..$ ExtWall          :List of 9
+  .. .. ..$ Name            :"Right"
+  .. .. ..$ Status          :"New"
+  .. .. ..$ IsVerified      :"0"
+  .. .. ..$ Orientation     :"Right"
+  .. .. ..$ OrientationValue:"270"
+  .. .. ..$ Area            :"414"
+  .. .. ..$ Construction    :"R19 R5 Stucco Wall"
+  .. .. ..$ Tilt            :"90"
+  .. .. ..$ Win             :List of 44
+  .. .. .. ..$ Name               :"R1"
+  .. .. .. ..$ Status             :"New"
+  .. .. .. ..$ IsVerified         :"0"
+  .. .. .. ..$ WinType            :"Oper"
+  .. .. .. ..$ SpecMethod         :"Window Dimensions (required for fins/overhangs)"
+  .. .. .. ..$ Area               :"28.02"
+  .. .. .. ..$ Height             :"4.67"
+  .. .. .. ..$ Width              :"6"
+  .. .. .. ..$ Multiplier         :"2"
+  .. .. .. ..$ UfactorSHGCSource  :"NFRC"
+  .. .. .. ..$ ExteriorShade      :"Insect Screen (default)"
+  .. .. .. ..$ exArea             :"28.02"
+  .. .. .. ..$ exHeight           :"4.67"
+  .. .. .. ..$ exWidth            :"6"
+  .. .. .. ..$ exMultiplier       :"2"
+  .. .. .. ..$ exUfactorSHGCSource:"NFRC"
+  .. .. .. ..$ exExteriorShade    :"Insect Screen (default)"
+  .. .. .. ..$ ModelFinsOverhang  :"1"
+  .. .. .. ..$ OverhangDepth      :"1"
+  .. .. .. ..$ OverhangDistUp     :"1.33"
+  .. .. .. ..$ OverhangExL        :"8"
+  .. .. .. ..$ OverhangExR        :"8"
+  .. .. .. ..$ OverhangFlap       :"0.4"
+  .. .. .. ..$ exOverhangDepth    :"0"
+  .. .. .. ..$ exOverhangDistUp   :"0"
+  .. .. .. ..$ exOverhangExL      :"0"
+  .. .. .. ..$ exOverhangExR      :"0"
+  .. .. .. ..$ exOverhangFlap     :"0"
+  .. .. .. ..$ LeftFinDepth       :"0"
+  .. .. .. ..$ LeftFinTopUp       :"0"
+  .. .. .. ..$ LeftFinDistL       :"0"
+  .. .. .. ..$ LeftFinBotUp       :"0"
+  .. .. .. ..$ exLeftFinDepth     :"0"
+  .. .. .. ..$ exLeftFinTopUp     :"0"
+  .. .. .. ..$ exLeftFinDistL     :"0"
+  .. .. .. ..$ exLeftFinBotUp     :"0"
+  .. .. .. ..$ RightFinDepth      :"0"
+  .. .. .. ..$ RightFinTopUp      :"0"
+  .. .. .. ..$ RightFinDistR      :"0"
+  .. .. .. ..$ RightFinBotUp      :"0"
+  .. .. .. ..$ exRightFinDepth    :"0"
+  .. .. .. ..$ exRightFinTopUp    :"0"
+  .. .. .. ..$ exRightFinDistR    :"0"
+  .. .. .. ..$ exRightFinBotUp    :"0"
+  .. ..$ IntWall          :List of 9
+  .. .. ..$ Name            :"GarToHouse Front"
+  .. .. ..$ Status          :"New"
+  .. .. ..$ IsVerified      :"0"
+  .. .. ..$ Area            :"180"
+  .. .. ..$ Construction    :"Gar House R15"
+  .. .. ..$ IsPartySurface  :"0"
+  .. .. ..$ OtherSideModeled:"0"
+  .. .. ..$ Outside         :"Garage"
+  .. .. ..$ Door            :List of 6
+  .. .. .. ..$ Name      :"GarToHouse Dr"
+  .. .. .. ..$ Status    :"New"
+  .. .. .. ..$ IsVerified:"0"
+  .. .. .. ..$ Area      :"20"
+  .. .. .. ..$ Ufactor   :"0.5"
+  .. .. .. ..$ exUfactor :"0.5"
+  .. ..$ IntWall          :List of 8
+  .. .. ..$ Name            :"GarToHouse Left"
+  .. .. ..$ Status          :"New"
+  .. .. ..$ IsVerified      :"0"
+  .. .. ..$ Area            :"90"
+  .. .. ..$ Construction    :"Gar House R15"
+  .. .. ..$ IsPartySurface  :"0"
+  .. .. ..$ OtherSideModeled:"0"
+  .. .. ..$ Outside         :"Garage"
+  .. ..$ SlabFloor        :List of 12
+  .. .. ..$ Name             :"Slab On Grade"
+  .. .. ..$ Status           :"New"
+  .. .. ..$ IsVerified       :"0"
+  .. .. ..$ Area             :"2100"
+  .. .. ..$ FloorZ           :"0"
+  .. .. ..$ Surface          :"Default (80% carpeted/covered, 20% exposed)"
+  .. .. ..$ Perimeter        :"162"
+  .. .. ..$ HeatedSlab       :"0"
+  .. .. ..$ EdgeInsulation   :"0"
+  .. .. ..$ EdgeInsulOption  :"R-5, 8 inches"
+  .. .. ..$ exSurface        :"Default (80% carpeted/covered, 20% exposed)"
+  .. .. ..$ exEdgeInsulOption:"R-5, 8 inches"
+  ..$ Attic              :List of 8
+  .. ..$ Name          :"Attic "
+  .. ..$ Type          :"Ventilated"
+  .. ..$ Status        :"New"
+  .. ..$ IsVerified    :"0"
+  .. ..$ RoofRise      :"5"
+  .. ..$ Construction  :"Tile High Performance"
+  .. ..$ RoofSolReflect:"0.2"
+  .. ..$ RoofEmiss     :"0.85"
+  ..$ EUseSummary        :List of 269
+  .. ..$ Name              :"EUSummary"
+  .. ..$ Title1            :List of 2
+  .. .. ..$ text  :"Proposed"
+  .. .. ..$ .attrs:"1"
+  .. ..$ Title1            :List of 2
+  .. .. ..$ text  :"Proposed"
+  .. .. ..$ .attrs:"2"
+  .. ..$ Title1            :List of 2
+  .. .. ..$ text  :"Proposed"
+  .. .. ..$ .attrs:"3"
+  .. ..$ Title1            :List of 2
+  .. .. ..$ text  :"Standard"
+  .. .. ..$ .attrs:"4"
+  .. ..$ Title1            :List of 2
+  .. .. ..$ text  :"Standard"
+  .. .. ..$ .attrs:"5"
+  .. ..$ Title1            :List of 2
+  .. .. ..$ text  :"Standard"
+  .. .. ..$ .attrs:"6"
+  .. ..$ Title1            :List of 2
+  .. .. ..$ text  :"Compliance"
+  .. .. ..$ .attrs:"7"
+  .. ..$ Title1            :List of 2
+  .. .. ..$ text  :"Proposed"
+  .. .. ..$ .attrs:"9"
+  .. ..$ Title1            :List of 2
+  .. .. ..$ text  :"Standard"
+  .. .. ..$ .attrs:"10"
+  .. ..$ Title1            :List of 2
+  .. .. ..$ text  :"Reference"
+  .. .. ..$ .attrs:"11"
+  .. ..$ Title1            :List of 2
+  .. .. ..$ text  :"Reference"
+  .. .. ..$ .attrs:"12"
+  .. ..$ Title1            :List of 2
+  .. .. ..$ text  :"Reference"
+  .. .. ..$ .attrs:"13"
+  .. ..$ Title1            :List of 2
+  .. .. ..$ text  :"Design Rating"
+  .. .. ..$ .attrs:"14"
+  .. ..$ Title1            :List of 2
+  .. .. ..$ text  :"Reference"
+  .. .. ..$ .attrs:"15"
+  .. ..$ Title1            :List of 2
+  .. .. ..$ text  :"Proposed"
+  .. .. ..$ .attrs:"16"
+  .. ..$ Title1            :List of 2
+  .. .. ..$ text  :"Proposed"
+  .. .. ..$ .attrs:"17"
+  .. ..$ Title1            :List of 2
+  .. .. ..$ text  :"Proposed"
+  .. .. ..$ .attrs:"18"
+  .. ..$ Title2            :List of 2
+  .. .. ..$ text  :"Design"
+  .. .. ..$ .attrs:"1"
+  .. ..$ Title2            :List of 2
+  .. .. ..$ text  :"Design"
+  .. .. ..$ .attrs:"2"
+  .. ..$ Title2            :List of 2
+  .. .. ..$ text  :"Design"
+  .. .. ..$ .attrs:"3"
+  .. ..$ Title2            :List of 2
+  .. .. ..$ text  :"Design"
+  .. .. ..$ .attrs:"4"
+  .. ..$ Title2            :List of 2
+  .. .. ..$ text  :"Design"
+  .. .. ..$ .attrs:"5"
+  .. ..$ Title2            :List of 2
+  .. .. ..$ text  :"Design"
+  .. .. ..$ .attrs:"6"
+  .. ..$ Title2            :List of 2
+  .. .. ..$ text  :"Margin"
+  .. .. ..$ .attrs:"7"
+  .. ..$ Title2            :List of 2
+  .. .. ..$ text  :"Design"
+  .. .. ..$ .attrs:"9"
+  .. ..$ Title2            :List of 2
+  .. .. ..$ text  :"Design"
+  .. .. ..$ .attrs:"10"
+  .. ..$ Title2            :List of 2
+  .. .. ..$ text  :"Design"
+  .. .. ..$ .attrs:"11"
+  .. ..$ Title2            :List of 2
+  .. .. ..$ text  :"Design"
+  .. .. ..$ .attrs:"12"
+  .. ..$ Title2            :List of 2
+  .. .. ..$ text  :"Design"
+  .. .. ..$ .attrs:"13"
+  .. ..$ Title2            :List of 2
+  .. .. ..$ text  :"Margin"
+  .. .. ..$ .attrs:"14"
+  .. ..$ Title2            :List of 2
+  .. .. ..$ text  :"Design"
+  .. .. ..$ .attrs:"15"
+  .. ..$ Title2            :List of 2
+  .. .. ..$ text  :"Design"
+  .. .. ..$ .attrs:"16"
+  .. ..$ Title2            :List of 2
+  .. .. ..$ text  :"Design"
+  .. .. ..$ .attrs:"17"
+  .. ..$ Title2            :List of 2
+  .. .. ..$ text  :"Design"
+  .. .. ..$ .attrs:"18"
+  .. ..$ Title3            :List of 2
+  .. .. ..$ text  :"End Use"
+  .. .. ..$ .attrs:"0"
+  .. ..$ Title3            :List of 2
+  .. .. ..$ text  :"Site (kWh)"
+  .. .. ..$ .attrs:"1"
+  .. ..$ Title3            :List of 2
+  .. .. ..$ text  :"Site (therms)"
+  .. .. ..$ .attrs:"2"
+  .. ..$ Title3            :List of 2
+  .. .. ..$ text  :"(kTDV/ft²-yr)"
+  .. .. ..$ .attrs:"3"
+  .. ..$ Title3            :List of 2
+  .. .. ..$ text  :"Site (kWh)"
+  .. .. ..$ .attrs:"4"
+  .. ..$ Title3            :List of 2
+  .. .. ..$ text  :"Site (therms)"
+  .. .. ..$ .attrs:"5"
+  .. ..$ Title3            :List of 2
+  .. .. ..$ text  :"(kTDV/ft²-yr)"
+  .. .. ..$ .attrs:"6"
+  .. ..$ Title3            :List of 2
+  .. .. ..$ text  :"(kTDV/ft²-yr)"
+  .. .. ..$ .attrs:"7"
+  .. ..$ Title3            :List of 2
+  .. .. ..$ text  :"(kW)"
+  .. .. ..$ .attrs:"9"
+  .. ..$ Title3            :List of 2
+  .. .. ..$ text  :"(kW)"
+  .. .. ..$ .attrs:"10"
+  .. ..$ Title3            :List of 2
+  .. .. ..$ text  :"Site (kWh)"
+  .. .. ..$ .attrs:"11"
+  .. ..$ Title3            :List of 2
+  .. .. ..$ text  :"Site (therms)"
+  .. .. ..$ .attrs:"12"
+  .. ..$ Title3            :List of 2
+  .. .. ..$ text  :"(kTDV/ft²-yr)"
+  .. .. ..$ .attrs:"13"
+  .. ..$ Title3            :List of 2
+  .. .. ..$ text  :"(kTDV/ft²-yr)"
+  .. .. ..$ .attrs:"14"
+  .. ..$ Title3            :List of 2
+  .. .. ..$ text  :"(kW)"
+  .. .. ..$ .attrs:"15"
+  .. ..$ Title3            :List of 2
+  .. .. ..$ text  :"Site (kWh)"
+  .. .. ..$ .attrs:"16"
+  .. ..$ Title3            :List of 2
+  .. .. ..$ text  :"Site (therms)"
+  .. .. ..$ .attrs:"17"
+  .. ..$ Title3            :List of 2
+  .. .. ..$ text  :"(kTDV/ft²-yr)"
+  .. .. ..$ .attrs:"18"
+  .. ..$ Enduse1           :List of 2
+  .. .. ..$ text  :"Space Heating"
+  .. .. ..$ .attrs:"0"
+  .. ..$ Enduse1           :List of 2
+  .. .. ..$ text  :"207"
+  .. .. ..$ .attrs:"1"
+  .. ..$ Enduse1           :List of 2
+  .. .. ..$ text  :"209.2"
+  .. .. ..$ .attrs:"2"
+  .. ..$ Enduse1           :List of 2
+  .. .. ..$ text  :"20.42"
+  .. .. ..$ .attrs:"3"
+  .. ..$ Enduse1           :List of 2
+  .. .. ..$ text  :"189"
+  .. .. ..$ .attrs:"4"
+  .. ..$ Enduse1           :List of 2
+  .. .. ..$ text  :"220.4"
+  .. .. ..$ .attrs:"5"
+  .. ..$ Enduse1           :List of 2
+  .. .. ..$ text  :"21.37"
+  .. .. ..$ .attrs:"6"
+  .. ..$ Enduse1           :List of 2
+  .. .. ..$ text  :"0.95"
+  .. .. ..$ .attrs:"7"
+  .. ..$ Enduse1           :List of 2
+  .. .. ..$ text  :"0.00"
+  .. .. ..$ .attrs:"9"
+  .. ..$ Enduse1           :List of 2
+  .. .. ..$ text  :"0.00"
+  .. .. ..$ .attrs:"10"
+  .. ..$ Enduse1           :List of 2
+  .. .. ..$ text  :"421"
+  .. .. ..$ .attrs:"11"
+  .. ..$ Enduse1           :List of 2
+  .. .. ..$ text  :"350.0"
+  .. .. ..$ .attrs:"12"
+  .. ..$ Enduse1           :List of 2
+  .. .. ..$ text  :"34.93"
+  .. .. ..$ .attrs:"13"
+  .. ..$ Enduse1           :List of 2
+  .. .. ..$ text  :"14.51"
+  .. .. ..$ .attrs:"14"
+  .. ..$ Enduse1           :List of 2
+  .. .. ..$ text  :"0.00"
+  .. .. ..$ .attrs:"15"
+  .. ..$ Enduse1           :List of 2
+  .. .. ..$ text  :"207"
+  .. .. ..$ .attrs:"16"
+  .. ..$ Enduse1           :List of 2
+  .. .. ..$ text  :"209.2"
+  .. .. ..$ .attrs:"17"
+  .. ..$ Enduse1           :List of 2
+  .. .. ..$ text  :"20.42"
+  .. .. ..$ .attrs:"18"
+  .. ..$ Enduse2           :List of 2
+  .. .. ..$ text  :"Space Cooling"
+  .. .. ..$ .attrs:"0"
+  .. ..$ Enduse2           :List of 2
+  .. .. ..$ text  :"156"
+  .. .. ..$ .attrs:"1"
+  .. ..$ Enduse2           :List of 2
+  .. .. ..$ text  :"3.90"
+  .. .. ..$ .attrs:"3"
+  .. ..$ Enduse2           :List of 2
+  .. .. ..$ text  :"276"
+  .. .. ..$ .attrs:"4"
+  .. ..$ Enduse2           :List of 2
+  .. .. ..$ text  :"10.21"
+  .. .. ..$ .attrs:"6"
+  .. ..$ Enduse2           :List of 2
+  .. .. ..$ text  :"6.31"
+  .. .. ..$ .attrs:"7"
+  .. ..$ Enduse2           :List of 2
+  .. .. ..$ text  :"0.13"
+  .. .. ..$ .attrs:"9"
+  .. ..$ Enduse2           :List of 2
+  .. .. ..$ text  :"0.53"
+  .. .. ..$ .attrs:"10"
+  .. ..$ Enduse2           :List of 2
+  .. .. ..$ text  :"1,095"
+  .. .. ..$ .attrs:"11"
+  .. ..$ Enduse2           :List of 2
+  .. .. ..$ text  :"41.15"
+  .. .. ..$ .attrs:"13"
+  .. ..$ Enduse2           :List of 2
+  .. .. ..$ text  :"37.25"
+  .. .. ..$ .attrs:"14"
+  .. ..$ Enduse2           :List of 2
+  .. .. ..$ text  :"2.25"
+  .. .. ..$ .attrs:"15"
+  .. ..$ Enduse2           :List of 2
+  .. .. ..$ text  :"156"
+  .. .. ..$ .attrs:"16"
+  .. ..$ Enduse2           :List of 2
+  .. .. ..$ text  :"3.90"
+  .. .. ..$ .attrs:"18"
+  .. ..$ Enduse3           :List of 2
+  .. .. ..$ text  :"IAQ Ventilation"
+  .. .. ..$ .attrs:"0"
+  .. ..$ Enduse3           :List of 2
+  .. .. ..$ text  :"112"
+  .. .. ..$ .attrs:"1"
+  .. ..$ Enduse3           :List of 2
+  .. .. ..$ text  :"1.17"
+  .. .. ..$ .attrs:"3"
+  .. ..$ Enduse3           :List of 2
+  .. .. ..$ text  :"112"
+  .. .. ..$ .attrs:"4"
+  .. ..$ Enduse3           :List of 2
+  .. .. ..$ text  :"1.17"
+  .. .. ..$ .attrs:"6"
+  .. ..$ Enduse3           :List of 2
+  .. .. ..$ text  :"0.00"
+  .. .. ..$ .attrs:"7"
+  .. ..$ Enduse3           :List of 2
+  .. .. ..$ text  :"0.01"
+  .. .. ..$ .attrs:"9"
+  .. ..$ Enduse3           :List of 2
+  .. .. ..$ text  :"0.01"
+  .. .. ..$ .attrs:"10"
+  .. ..$ Enduse3           :List of 2
+  .. .. ..$ text  :"112"
+  .. .. ..$ .attrs:"11"
+  .. ..$ Enduse3           :List of 2
+  .. .. ..$ text  :"1.17"
+  .. .. ..$ .attrs:"13"
+  .. ..$ Enduse3           :List of 2
+  .. .. ..$ text  :"0.00"
+  .. .. ..$ .attrs:"14"
+  .. ..$ Enduse3           :List of 2
+  .. .. ..$ text  :"0.01"
+  .. .. ..$ .attrs:"15"
+  .. ..$ Enduse3           :List of 2
+  .. .. ..$ text  :"112"
+  .. .. ..$ .attrs:"16"
+  .. ..$ Enduse3           :List of 2
+  .. .. ..$ text  :"1.17"
+  .. .. ..$ .attrs:"18"
+  .. ..$ Enduse4           :List of 2
+  .. .. ..$ text  :"Other HVAC"
+  .. .. ..$ .attrs:"0"
+  .. ..$ Enduse4           :List of 2
+  .. .. ..$ text  :"0.00"
+  .. .. ..$ .attrs:"3"
+  .. ..$ Enduse4           :List of 2
+  .. .. ..$ text  :"0.00"
+  .. .. ..$ .attrs:"6"
+  .. ..$ Enduse4           :List of 2
+  .. .. ..$ text  :"0.00"
+  .. .. ..$ .attrs:"7"
+  .. ..$ Enduse4           :List of 2
+  .. .. ..$ text  :"0.00"
+  .. .. ..$ .attrs:"9"
+  .. ..$ Enduse4           :List of 2
+  .. .. ..$ text  :"0.00"
+  .. .. ..$ .attrs:"10"
+  .. ..$ Enduse4           :List of 2
+  .. .. ..$ text  :"0.00"
+  .. .. ..$ .attrs:"13"
+  .. ..$ Enduse4           :List of 2
+  .. .. ..$ text  :"0.00"
+  .. .. ..$ .attrs:"14"
+  .. ..$ Enduse4           :List of 2
+  .. .. ..$ text  :"0.00"
+  .. .. ..$ .attrs:"15"
+  .. ..$ Enduse4           :List of 2
+  .. .. ..$ text  :"0.00"
+  .. .. ..$ .attrs:"18"
+  .. ..$ Enduse5           :List of 2
+  .. .. ..$ text  :"Water Heating"
+  .. .. ..$ .attrs:"0"
+  .. ..$ Enduse5           :List of 2
+  .. .. ..$ text  :"108.3"
+  .. .. ..$ .attrs:"2"
+  .. ..$ Enduse5           :List of 2
+  .. .. ..$ text  :"8.66"
+  .. .. ..$ .attrs:"3"
+  .. ..$ Enduse5           :List of 2
+  .. .. ..$ text  :"108.3"
+  .. .. ..$ .attrs:"5"
+  .. ..$ Enduse5           :List of 2
+  .. .. ..$ text  :"8.66"
+  .. .. ..$ .attrs:"6"
+  .. ..$ Enduse5           :List of 2
+  .. .. ..$ text  :"0.00"
+  .. .. ..$ .attrs:"7"
+  .. ..$ Enduse5           :List of 2
+  .. .. ..$ text  :"0.00"
+  .. .. ..$ .attrs:"9"
+  .. ..$ Enduse5           :List of 2
+  .. .. ..$ text  :"0.00"
+  .. .. ..$ .attrs:"10"
+  .. ..$ Enduse5           :List of 2
+  .. .. ..$ text  :"162.9"
+  .. .. ..$ .attrs:"12"
+  .. ..$ Enduse5           :List of 2
+  .. .. ..$ text  :"13.03"
+  .. .. ..$ .attrs:"13"
+  .. ..$ Enduse5           :List of 2
+  .. .. ..$ text  :"4.37"
+  .. .. ..$ .attrs:"14"
+  .. ..$ Enduse5           :List of 2
+  .. .. ..$ text  :"0.00"
+  .. .. ..$ .attrs:"15"
+  .. ..$ Enduse5           :List of 2
+  .. .. ..$ text  :"108.3"
+  .. .. ..$ .attrs:"17"
+  .. ..$ Enduse5           :List of 2
+  .. .. ..$ text  :"8.66"
+  .. .. ..$ .attrs:"18"
+  .. ..$ Enduse6           :List of 2
+  .. .. ..$ text  :"Inside Lighting"
+  .. .. ..$ .attrs:"0"
+  .. ..$ Enduse6           :List of 2
+  .. .. ..$ text  :"506"
+  .. .. ..$ .attrs:"1"
+  .. ..$ Enduse6           :List of 2
+  .. .. ..$ text  :"5.55"
+  .. .. ..$ .attrs:"3"
+  .. ..$ Enduse6           :List of 2
+  .. .. ..$ text  :"506"
+  .. .. ..$ .attrs:"4"
+  .. ..$ Enduse6           :List of 2
+  .. .. ..$ text  :"5.55"
+  .. .. ..$ .attrs:"6"
+  .. ..$ Enduse6           :List of 2
+  .. .. ..$ text  :"0.00"
+  .. .. ..$ .attrs:"7"
+  .. ..$ Enduse6           :List of 2
+  .. .. ..$ text  :"0.07"
+  .. .. ..$ .attrs:"9"
+  .. ..$ Enduse6           :List of 2
+  .. .. ..$ text  :"0.07"
+  .. .. ..$ .attrs:"10"
+  .. ..$ Enduse6           :List of 2
+  .. .. ..$ text  :"2,135"
+  .. .. ..$ .attrs:"11"
+  .. ..$ Enduse6           :List of 2
+  .. .. ..$ text  :"23.83"
+  .. .. ..$ .attrs:"13"
+  .. ..$ Enduse6           :List of 2
+  .. .. ..$ text  :"18.28"
+  .. .. ..$ .attrs:"14"
+  .. ..$ Enduse6           :List of 2
+  .. .. ..$ text  :"0.34"
+  .. .. ..$ .attrs:"15"
+  .. ..$ Enduse6           :List of 2
+  .. .. ..$ text  :"506"
+  .. .. ..$ .attrs:"16"
+  .. ..$ Enduse6           :List of 2
+  .. .. ..$ text  :"5.55"
+  .. .. ..$ .attrs:"18"
+  .. ..$ Enduse7           :List of 2
+  .. .. ..$ text  :"Appl. & Cooking"
+  .. .. ..$ .attrs:"0"
+  .. ..$ Enduse7           :List of 2
+  .. .. ..$ text  :"941"
+  .. .. ..$ .attrs:"1"
+  .. ..$ Enduse7           :List of 2
+  .. .. ..$ text  :"43.7"
+  .. .. ..$ .attrs:"2"
+  .. ..$ Enduse7           :List of 2
+  .. .. ..$ text  :"13.92"
+  .. .. ..$ .attrs:"3"
+  .. ..$ Enduse7           :List of 2
+  .. .. ..$ text  :"949"
+  .. .. ..$ .attrs:"4"
+  .. ..$ Enduse7           :List of 2
+  .. .. ..$ text  :"43.7"
+  .. .. ..$ .attrs:"5"
+  .. ..$ Enduse7           :List of 2
+  .. .. ..$ text  :"14.02"
+  .. .. ..$ .attrs:"6"
+  .. ..$ Enduse7           :List of 2
+  .. .. ..$ text  :"0.10"
+  .. .. ..$ .attrs:"7"
+  .. ..$ Enduse7           :List of 2
+  .. .. ..$ text  :"0.15"
+  .. .. ..$ .attrs:"9"
+  .. ..$ Enduse7           :List of 2
+  .. .. ..$ text  :"0.15"
+  .. .. ..$ .attrs:"10"
+  .. ..$ Enduse7           :List of 2
+  .. .. ..$ text  :"930"
+  .. .. ..$ .attrs:"11"
+  .. ..$ Enduse7           :List of 2
+  .. .. ..$ text  :"65.4"
+  .. .. ..$ .attrs:"12"
+  .. ..$ Enduse7           :List of 2
+  .. .. ..$ text  :"14.92"
+  .. .. ..$ .attrs:"13"
+  .. ..$ Enduse7           :List of 2
+  .. .. ..$ text  :"1.00"
+  .. .. ..$ .attrs:"14"
+  .. ..$ Enduse7           :List of 2
+  .. .. ..$ text  :"0.11"
+  .. .. ..$ .attrs:"15"
+  .. ..$ Enduse7           :List of 2
+  .. .. ..$ text  :"941"
+  .. .. ..$ .attrs:"16"
+  .. ..$ Enduse7           :List of 2
+  .. .. ..$ text  :"43.7"
+  .. .. ..$ .attrs:"17"
+  .. ..$ Enduse7           :List of 2
+  .. .. ..$ text  :"13.92"
+  .. .. ..$ .attrs:"18"
+  .. ..$ Enduse8           :List of 2
+  .. .. ..$ text  :"Plug Loads"
+  .. .. ..$ .attrs:"0"
+  .. ..$ Enduse8           :List of 2
+  .. .. ..$ text  :"2,026"
+  .. .. ..$ .attrs:"1"
+  .. ..$ Enduse8           :List of 2
+  .. .. ..$ text  :"21.58"
+  .. .. ..$ .attrs:"3"
+  .. ..$ Enduse8           :List of 2
+  .. .. ..$ text  :"2,026"
+  .. .. ..$ .attrs:"4"
+  .. ..$ Enduse8           :List of 2
+  .. .. ..$ text  :"21.58"
+  .. .. ..$ .attrs:"6"
+  .. ..$ Enduse8           :List of 2
+  .. .. ..$ text  :"0.00"
+  .. .. ..$ .attrs:"7"
+  .. ..$ Enduse8           :List of 2
+  .. .. ..$ text  :"0.26"
+  .. .. ..$ .attrs:"9"
+  .. ..$ Enduse8           :List of 2
+  .. .. ..$ text  :"0.26"
+  .. .. ..$ .attrs:"10"
+  .. ..$ Enduse8           :List of 2
+  .. .. ..$ text  :"2,638"
+  .. .. ..$ .attrs:"11"
+  .. ..$ Enduse8           :List of 2
+  .. .. ..$ text  :"28.35"
+  .. .. ..$ .attrs:"13"
+  .. ..$ Enduse8           :List of 2
+  .. .. ..$ text  :"6.77"
+  .. .. ..$ .attrs:"14"
+  .. ..$ Enduse8           :List of 2
+  .. .. ..$ text  :"0.35"
+  .. .. ..$ .attrs:"15"
+  .. ..$ Enduse8           :List of 2
+  .. .. ..$ text  :"2,026"
+  .. .. ..$ .attrs:"16"
+  .. ..$ Enduse8           :List of 2
+  .. .. ..$ text  :"21.58"
+  .. .. ..$ .attrs:"18"
+  .. ..$ Enduse9           :List of 2
+  .. .. ..$ text  :"Exterior"
+  .. .. ..$ .attrs:"0"
+  .. ..$ Enduse9           :List of 2
+  .. .. ..$ text  :"120"
+  .. .. ..$ .attrs:"1"
+  .. ..$ Enduse9           :List of 2
+  .. .. ..$ text  :"1.22"
+  .. .. ..$ .attrs:"3"
+  .. ..$ Enduse9           :List of 2
+  .. .. ..$ text  :"120"
+  .. .. ..$ .attrs:"4"
+  .. ..$ Enduse9           :List of 2
+  .. .. ..$ text  :"1.22"
+  .. .. ..$ .attrs:"6"
+  .. ..$ Enduse9           :List of 2
+  .. .. ..$ text  :"0.00"
+  .. .. ..$ .attrs:"7"
+  .. ..$ Enduse9           :List of 2
+  .. .. ..$ text  :"0.01"
+  .. .. ..$ .attrs:"9"
+  .. ..$ Enduse9           :List of 2
+  .. .. ..$ text  :"0.01"
+  .. .. ..$ .attrs:"10"
+  .. ..$ Enduse9           :List of 2
+  .. .. ..$ text  :"298"
+  .. .. ..$ .attrs:"11"
+  .. ..$ Enduse9           :List of 2
+  .. .. ..$ text  :"2.86"
+  .. .. ..$ .attrs:"13"
+  .. ..$ Enduse9           :List of 2
+  .. .. ..$ text  :"1.64"
+  .. .. ..$ .attrs:"14"
+  .. ..$ Enduse9           :List of 2
+  .. .. ..$ text  :"0.00"
+  .. .. ..$ .attrs:"15"
+  .. ..$ Enduse9           :List of 2
+  .. .. ..$ text  :"120"
+  .. .. ..$ .attrs:"16"
+  .. ..$ Enduse9           :List of 2
+  .. .. ..$ text  :"1.22"
+  .. .. ..$ .attrs:"18"
+  .. ..$ Enduse10          :List of 2
+  .. .. ..$ text  :"TOTAL"
+  .. .. ..$ .attrs:"0"
+  .. ..$ Enduse10          :List of 2
+  .. .. ..$ text  :"4,067"
+  .. .. ..$ .attrs:"1"
+  .. ..$ Enduse10          :List of 2
+  .. .. ..$ text  :"361.1"
+  .. .. ..$ .attrs:"2"
+  .. ..$ Enduse10          :List of 2
+  .. .. ..$ text  :"76.42"
+  .. .. ..$ .attrs:"3"
+  .. ..$ Enduse10          :List of 2
+  .. .. ..$ text  :"4,177"
+  .. .. ..$ .attrs:"4"
+  .. ..$ Enduse10          :List of 2
+  .. .. ..$ text  :"372.3"
+  .. .. ..$ .attrs:"5"
+  .. ..$ Enduse10          :List of 2
+  .. .. ..$ text  :"83.78"
+  .. .. ..$ .attrs:"6"
+  .. ..$ Enduse10          :List of 2
+  .. .. ..$ text  :"7.36"
+  .. .. ..$ .attrs:"7"
+  .. ..$ Enduse10          :List of 2
+  .. .. ..$ text  :"0.64"
+  .. .. ..$ .attrs:"9"
+  .. ..$ Enduse10          :List of 2
+  .. .. ..$ text  :"1.04"
+  .. .. ..$ .attrs:"10"
+  .. ..$ Enduse10          :List of 2
+  .. .. ..$ text  :"7,628"
+  .. .. ..$ .attrs:"11"
+  .. ..$ Enduse10          :List of 2
+  .. .. ..$ text  :"578.3"
+  .. .. ..$ .attrs:"12"
+  .. ..$ Enduse10          :List of 2
+  .. .. ..$ text  :"160.24"
+  .. .. ..$ .attrs:"13"
+  .. ..$ Enduse10          :List of 2
+  .. .. ..$ text  :"83.82"
+  .. .. ..$ .attrs:"14"
+  .. ..$ Enduse10          :List of 2
+  .. .. ..$ text  :"3.07"
+  .. .. ..$ .attrs:"15"
+  .. ..$ Enduse10          :List of 2
+  .. .. ..$ text  :"4,067"
+  .. .. ..$ .attrs:"16"
+  .. ..$ Enduse10          :List of 2
+  .. .. ..$ text  :"361.1"
+  .. .. ..$ .attrs:"17"
+  .. ..$ Enduse10          :List of 2
+  .. .. ..$ text  :"76.42"
+  .. .. ..$ .attrs:"18"
+  .. ..$ Enduse11          :List of 2
+  .. .. ..$ text  :"Compliance Total"
+  .. .. ..$ .attrs:"0"
+  .. ..$ Enduse11          :List of 2
+  .. .. ..$ text  :"475"
+  .. .. ..$ .attrs:"1"
+  .. ..$ Enduse11          :List of 2
+  .. .. ..$ text  :"317.5"
+  .. .. ..$ .attrs:"2"
+  .. ..$ Enduse11          :List of 2
+  .. .. ..$ text  :"34.15"
+  .. .. ..$ .attrs:"3"
+  .. ..$ Enduse11          :List of 2
+  .. .. ..$ text  :"577"
+  .. .. ..$ .attrs:"4"
+  .. ..$ Enduse11          :List of 2
+  .. .. ..$ text  :"328.7"
+  .. .. ..$ .attrs:"5"
+  .. ..$ Enduse11          :List of 2
+  .. .. ..$ text  :"41.41"
+  .. .. ..$ .attrs:"6"
+  .. ..$ Enduse11          :List of 2
+  .. .. ..$ text  :"7.26"
+  .. .. ..$ .attrs:"7"
+  .. ..$ Enduse11          :List of 2
+  .. .. ..$ text  :"0.14"
+  .. .. ..$ .attrs:"9"
+  .. ..$ Enduse11          :List of 2
+  .. .. ..$ text  :"0.55"
+  .. .. ..$ .attrs:"10"
+  .. ..$ Enduse11          :List of 2
+  .. .. ..$ text  :"1,627"
+  .. .. ..$ .attrs:"11"
+  .. ..$ Enduse11          :List of 2
+  .. .. ..$ text  :"512.9"
+  .. .. ..$ .attrs:"12"
+  .. ..$ Enduse11          :List of 2
+  .. .. ..$ text  :"90.28"
+  .. .. ..$ .attrs:"13"
+  .. ..$ Enduse11          :List of 2
+  .. .. ..$ text  :"56.13"
+  .. .. ..$ .attrs:"14"
+  .. ..$ Enduse11          :List of 2
+  .. .. ..$ text  :"2.26"
+  .. .. ..$ .attrs:"15"
+  .. ..$ Enduse11          :List of 2
+  .. .. ..$ text  :"475"
+  .. .. ..$ .attrs:"16"
+  .. ..$ Enduse11          :List of 2
+  .. .. ..$ text  :"317.5"
+  .. .. ..$ .attrs:"17"
+  .. ..$ Enduse11          :List of 2
+  .. .. ..$ text  :"34.15"
+  .. .. ..$ .attrs:"18"
+  .. ..$ Enduse13          :List of 2
+  .. .. ..$ text  :"Photovoltaics"
+  .. .. ..$ .attrs:"0"
+  .. ..$ Enduse13          :List of 2
+  .. .. ..$ text  :"0.00"
+  .. .. ..$ .attrs:"3"
+  .. ..$ Enduse13          :List of 2
+  .. .. ..$ text  :" "
+  .. .. ..$ .attrs:"6"
+  .. ..$ Enduse13          :List of 2
+  .. .. ..$ text  :"0.00"
+  .. .. ..$ .attrs:"7"
+  .. ..$ Enduse13          :List of 2
+  .. .. ..$ text  :"0.00"
+  .. .. ..$ .attrs:"9"
+  .. ..$ Enduse13          :List of 2
+  .. .. ..$ text  :" "
+  .. .. ..$ .attrs:"13"
+  .. ..$ Enduse13          :List of 2
+  .. .. ..$ text  :"0.00"
+  .. .. ..$ .attrs:"14"
+  .. ..$ Enduse13          :List of 2
+  .. .. ..$ text  :"0"
+  .. .. ..$ .attrs:"16"
+  .. ..$ Enduse13          :List of 2
+  .. .. ..$ text  :"0.00"
+  .. .. ..$ .attrs:"18"
+  .. ..$ PassFail          :"PASS"
+  .. ..$ ComplyMessage     :"COMPLIES"
+  .. ..$ SummaryCol1       :List of 2
+  .. .. ..$ text  :"Standard Design"
+  .. .. ..$ .attrs:"3"
+  .. ..$ SummaryCol1       :List of 2
+  .. .. ..$ text  :"Proposed Design"
+  .. .. ..$ .attrs:"4"
+  .. ..$ SummaryCol1       :List of 2
+  .. .. ..$ text  :"Standard Design"
+  .. .. ..$ .attrs:"18"
+  .. ..$ SummaryCol2       :List of 2
+  .. .. ..$ text  :"Compliance"
+  .. .. ..$ .attrs:"0"
+  .. ..$ SummaryCol2       :List of 2
+  .. .. ..$ text  :"Total"
+  .. .. ..$ .attrs:"1"
+  .. ..$ SummaryCol2       :List of 2
+  .. .. ..$ text  :"(kTDV/ft²-yr)"
+  .. .. ..$ .attrs:"2"
+  .. ..$ SummaryCol2       :List of 2
+  .. .. ..$ text  :"41.41"
+  .. .. ..$ .attrs:"3"
+  .. ..$ SummaryCol2       :List of 2
+  .. .. ..$ text  :"34.15"
+  .. .. ..$ .attrs:"4"
+  .. ..$ SummaryCol2       :List of 2
+  .. .. ..$ text  :"Total"
+  .. .. ..$ .attrs:"16"
+  .. ..$ SummaryCol2       :List of 2
+  .. .. ..$ text  :"(kTDV/ft²-yr)"
+  .. .. ..$ .attrs:"17"
+  .. ..$ SummaryCol2       :List of 2
+  .. .. ..$ text  :"41.41"
+  .. .. ..$ .attrs:"18"
+  .. ..$ SummaryCol3       :List of 2
+  .. .. ..$ text  :"Compliance"
+  .. .. ..$ .attrs:"0"
+  .. ..$ SummaryCol3       :List of 2
+  .. .. ..$ text  :"Margin"
+  .. .. ..$ .attrs:"1"
+  .. ..$ SummaryCol3       :List of 2
+  .. .. ..$ text  :"(kTDV/ft²-yr)"
+  .. .. ..$ .attrs:"2"
+  .. ..$ SummaryCol3       :List of 2
+  .. .. ..$ text  :"7.26"
+  .. .. ..$ .attrs:"4"
+  .. ..$ SummaryCol3       :List of 2
+  .. .. ..$ text  :"Margin"
+  .. .. ..$ .attrs:"16"
+  .. ..$ SummaryCol3       :List of 2
+  .. .. ..$ text  :"(kTDV/ft²-yr)"
+  .. .. ..$ .attrs:"17"
+  .. ..$ MarginkW          :"0.404071"
+  .. ..$ MarginkWh         :"109.743"
+  .. ..$ MarginTherms      :"11.1897"
+  .. ..$ PctSavingskW      :"38.878"
+  .. ..$ PctSavingskWh     :"2.62747"
+  .. ..$ PctSavingsTherms  :"3.00533"
+  .. ..$ PctSavingsTDV     :"8.78491"
+  .. ..$ PctSavingsCmpTDV  :"17.532"
+  .. ..$ PctSavkWLbl       :"38.9"
+  .. ..$ PctSavkWhLbl      :"2.6"
+  .. ..$ PctSavThermsLbl   :"3.0"
+  .. ..$ PctSavTDVLbl      :"8.8"
+  .. ..$ PctSavCmpTDVLbl   :"17.5"
+  .. ..$ DesignRating      :"41.5923"
+  .. ..$ DesignRatingNoPV  :"41.5923"
+  .. ..$ ShowDesignRtgNoPV :"0"
+  .. ..$ DesignRatingPVOnly:"0"
+  .. ..$ DesignRatingStd   :"45.598"
+  .. ..$ MeetsTier1        :"0"
+  .. ..$ MeetsTier2        :"0"
+  .. ..$ MeetsZNETier      :"0"
+  .. ..$ ProjAssignFirst   :"1"
+ $ SchDay         :List of 26
+  ..$ Name:"CARes2013 InsLighting Hrly"
+  ..$ Type:"Fraction"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.023"
+  .. ..$ .attrs:"0"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.019"
+  .. ..$ .attrs:"1"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.015"
+  .. ..$ .attrs:"2"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.017"
+  .. ..$ .attrs:"3"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.021"
+  .. ..$ .attrs:"4"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.031"
+  .. ..$ .attrs:"5"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.042"
+  .. ..$ .attrs:"6"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.041"
+  .. ..$ .attrs:"7"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.034"
+  .. ..$ .attrs:"8"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.029"
+  .. ..$ .attrs:"9"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.027"
+  .. ..$ .attrs:"10"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.025"
+  .. ..$ .attrs:"11"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.021"
+  .. ..$ .attrs:"12"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.021"
+  .. ..$ .attrs:"13"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.021"
+  .. ..$ .attrs:"14"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.026"
+  .. ..$ .attrs:"15"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.031"
+  .. ..$ .attrs:"16"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.044"
+  .. ..$ .attrs:"17"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.084"
+  .. ..$ .attrs:"18"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.118"
+  .. ..$ .attrs:"19"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.113"
+  .. ..$ .attrs:"20"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.096"
+  .. ..$ .attrs:"21"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.063"
+  .. ..$ .attrs:"22"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.038"
+  .. ..$ .attrs:"23"
+ $ SchDay         :List of 26
+  ..$ Name:"CARes2013 Occupancy Hrly"
+  ..$ Type:"Fraction"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.035"
+  .. ..$ .attrs:"0"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.035"
+  .. ..$ .attrs:"1"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.035"
+  .. ..$ .attrs:"2"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.035"
+  .. ..$ .attrs:"3"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.035"
+  .. ..$ .attrs:"4"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.059"
+  .. ..$ .attrs:"5"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.082"
+  .. ..$ .attrs:"6"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.055"
+  .. ..$ .attrs:"7"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.027"
+  .. ..$ .attrs:"8"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.014"
+  .. ..$ .attrs:"9"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.014"
+  .. ..$ .attrs:"10"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.014"
+  .. ..$ .attrs:"11"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.014"
+  .. ..$ .attrs:"12"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.014"
+  .. ..$ .attrs:"13"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.019"
+  .. ..$ .attrs:"14"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.027"
+  .. ..$ .attrs:"15"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.041"
+  .. ..$ .attrs:"16"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.055"
+  .. ..$ .attrs:"17"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.068"
+  .. ..$ .attrs:"18"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.082"
+  .. ..$ .attrs:"19"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.082"
+  .. ..$ .attrs:"20"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.07"
+  .. ..$ .attrs:"21"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.053"
+  .. ..$ .attrs:"22"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.035"
+  .. ..$ .attrs:"23"
+ $ SchDay         :List of 26
+  ..$ Name:"CARes2013 Equipment Hrly"
+  ..$ Type:"Fraction"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.037"
+  .. ..$ .attrs:"0"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.035"
+  .. ..$ .attrs:"1"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.034"
+  .. ..$ .attrs:"2"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.034"
+  .. ..$ .attrs:"3"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.032"
+  .. ..$ .attrs:"4"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.036"
+  .. ..$ .attrs:"5"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.042"
+  .. ..$ .attrs:"6"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.044"
+  .. ..$ .attrs:"7"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.037"
+  .. ..$ .attrs:"8"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.032"
+  .. ..$ .attrs:"9"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.033"
+  .. ..$ .attrs:"10"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.033"
+  .. ..$ .attrs:"11"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.032"
+  .. ..$ .attrs:"12"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.033"
+  .. ..$ .attrs:"13"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.035"
+  .. ..$ .attrs:"14"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.037"
+  .. ..$ .attrs:"15"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.044"
+  .. ..$ .attrs:"16"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.053"
+  .. ..$ .attrs:"17"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.058"
+  .. ..$ .attrs:"18"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.06"
+  .. ..$ .attrs:"19"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.062"
+  .. ..$ .attrs:"20"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.06"
+  .. ..$ .attrs:"21"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.052"
+  .. ..$ .attrs:"22"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.045"
+  .. ..$ .attrs:"23"
+ $ SchDay         :List of 26
+  ..$ Name:"CARes2013 ExtLighting Hrly"
+  ..$ Type:"Fraction"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"0"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"1"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"2"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"3"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"4"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"5"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"6"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"7"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"8"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"9"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"10"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"11"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"12"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"13"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"14"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"15"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"16"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"17"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"18"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"19"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.25"
+  .. ..$ .attrs:"20"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.25"
+  .. ..$ .attrs:"21"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.25"
+  .. ..$ .attrs:"22"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"0.25"
+  .. ..$ .attrs:"23"
+ $ SchDay         :List of 26
+  ..$ Name:"CARes2013 SZ Heat Hrly"
+  ..$ Type:"Temperature"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"65"
+  .. ..$ .attrs:"0"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"65"
+  .. ..$ .attrs:"1"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"65"
+  .. ..$ .attrs:"2"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"65"
+  .. ..$ .attrs:"3"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"65"
+  .. ..$ .attrs:"4"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"65"
+  .. ..$ .attrs:"5"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"66.5"
+  .. ..$ .attrs:"6"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"7"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"8"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"9"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"10"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"11"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"12"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"13"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"14"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"15"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"16"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"17"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"18"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"19"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"20"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"21"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"22"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"65"
+  .. ..$ .attrs:"23"
+ $ SchDay         :List of 26
+  ..$ Name:"CARes2013 Liv Heat Hrly"
+  ..$ Type:"Temperature"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"65"
+  .. ..$ .attrs:"0"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"65"
+  .. ..$ .attrs:"1"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"65"
+  .. ..$ .attrs:"2"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"65"
+  .. ..$ .attrs:"3"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"65"
+  .. ..$ .attrs:"4"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"65"
+  .. ..$ .attrs:"5"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"66.5"
+  .. ..$ .attrs:"6"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"7"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"8"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"9"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"10"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"11"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"12"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"13"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"14"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"15"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"16"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"17"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"18"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"19"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"20"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"21"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"22"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"65"
+  .. ..$ .attrs:"23"
+ $ SchDay         :List of 26
+  ..$ Name:"CARes2013 Slp Heat Hrly"
+  ..$ Type:"Temperature"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"65"
+  .. ..$ .attrs:"0"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"65"
+  .. ..$ .attrs:"1"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"65"
+  .. ..$ .attrs:"2"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"65"
+  .. ..$ .attrs:"3"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"65"
+  .. ..$ .attrs:"4"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"65"
+  .. ..$ .attrs:"5"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"66.5"
+  .. ..$ .attrs:"6"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"7"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"8"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"65"
+  .. ..$ .attrs:"9"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"65"
+  .. ..$ .attrs:"10"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"65"
+  .. ..$ .attrs:"11"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"65"
+  .. ..$ .attrs:"12"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"65"
+  .. ..$ .attrs:"13"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"65"
+  .. ..$ .attrs:"14"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"65"
+  .. ..$ .attrs:"15"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"16"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"17"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"18"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"19"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"20"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"21"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"68"
+  .. ..$ .attrs:"22"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"65"
+  .. ..$ .attrs:"23"
+ $ SchDay         :List of 26
+  ..$ Name:"CARes2013 SZ Cool Hrly"
+  ..$ Type:"Temperature"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"0"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"1"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"2"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"3"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"4"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"5"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"6"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"83"
+  .. ..$ .attrs:"7"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"83"
+  .. ..$ .attrs:"8"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"83"
+  .. ..$ .attrs:"9"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"83"
+  .. ..$ .attrs:"10"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"83"
+  .. ..$ .attrs:"11"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"83"
+  .. ..$ .attrs:"12"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"82"
+  .. ..$ .attrs:"13"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"81"
+  .. ..$ .attrs:"14"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"80"
+  .. ..$ .attrs:"15"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"79"
+  .. ..$ .attrs:"16"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"17"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"18"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"19"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"20"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"21"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"22"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"23"
+ $ SchDay         :List of 26
+  ..$ Name:"CARes2013 Liv Cool Hrly"
+  ..$ Type:"Temperature"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"0"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"1"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"2"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"3"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"4"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"5"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"6"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"83"
+  .. ..$ .attrs:"7"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"83"
+  .. ..$ .attrs:"8"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"83"
+  .. ..$ .attrs:"9"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"83"
+  .. ..$ .attrs:"10"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"83"
+  .. ..$ .attrs:"11"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"83"
+  .. ..$ .attrs:"12"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"82"
+  .. ..$ .attrs:"13"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"81"
+  .. ..$ .attrs:"14"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"80"
+  .. ..$ .attrs:"15"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"79"
+  .. ..$ .attrs:"16"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"17"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"18"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"19"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"20"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"21"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"22"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"23"
+ $ SchDay         :List of 26
+  ..$ Name:"CARes2013 Slp Cool Hrly"
+  ..$ Type:"Temperature"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"0"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"1"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"2"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"3"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"4"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"5"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"6"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"83"
+  .. ..$ .attrs:"7"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"83"
+  .. ..$ .attrs:"8"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"83"
+  .. ..$ .attrs:"9"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"83"
+  .. ..$ .attrs:"10"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"83"
+  .. ..$ .attrs:"11"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"83"
+  .. ..$ .attrs:"12"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"82"
+  .. ..$ .attrs:"13"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"81"
+  .. ..$ .attrs:"14"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"80"
+  .. ..$ .attrs:"15"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"79"
+  .. ..$ .attrs:"16"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"17"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"18"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"19"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"20"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"21"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"22"
+  ..$ Hr  :List of 2
+  .. ..$ text  :"78"
+  .. ..$ .attrs:"23"
+ $ Cons           :List of 28
+  ..$ Name                 :"Interior R0 Floor"
+  ..$ CanAssignTo          :"Interior Floors"
+  ..$ Type                 :"Wood Framed Floor"
+  ..$ RoofingLayer         :"Light Roof (Asphalt Shingle)"
+  ..$ AbvDeckInsulLayer    :"- no insulation -"
+  ..$ RoofDeckLayer        :"Wood Siding/sheathing/decking"
+  ..$ InsideFinishLayer    :"Gypsum Board"
+  ..$ AtticFloorLayer      :"- no attic floor -"
+  ..$ FloorSurfaceLayer    :"Carpeted"
+  ..$ FlrConcreteFillLayer :"- no concrete fill -"
+  ..$ FloorDeckLayer       :"Wood Siding/sheathing/decking"
+  ..$ SheathInsul2Layer    :"- no sheathing/insul. -"
+  ..$ MassLayer            :"- none -"
+  ..$ MassThickness        :"- none -"
+  ..$ FurringInsul2Layer   :"- no insulation -"
+  ..$ FurringInsulLayer    :"- no insulation -"
+  ..$ Furring2Layer        :"- none -"
+  ..$ FurringLayer         :"- none -"
+  ..$ CavityLayer          :"- no insulation -"
+  ..$ FrameLayer           :"2x6 @ 16 in. O.C."
+  ..$ SheathInsulLayer     :"- no sheathing/insul. -"
+  ..$ WallExtFinishLayer   :"- select finish -"
+  ..$ OtherSideFinishLayer :"Gypsum Board"
+  ..$ FlrExtFinishLayer    :"- select finish -"
+  ..$ RadiantBarrier       :"0"
+  ..$ RaisedHeelTruss      :"0"
+  ..$ RaisedHeelTrussHeight:"3.5"
+  ..$ RoofingType          :"all others"
+ $ Cons           :List of 28
+  ..$ Name                 :"Interior R0 Wall"
+  ..$ CanAssignTo          :"Interior Walls"
+  ..$ Type                 :"Wood Framed Wall"
+  ..$ RoofingLayer         :"Light Roof (Asphalt Shingle)"
+  ..$ AbvDeckInsulLayer    :"- no insulation -"
+  ..$ RoofDeckLayer        :"Wood Siding/sheathing/decking"
+  ..$ InsideFinishLayer    :"Gypsum Board"
+  ..$ AtticFloorLayer      :"- no attic floor -"
+  ..$ FloorSurfaceLayer    :"Carpeted"
+  ..$ FlrConcreteFillLayer :"- no concrete fill -"
+  ..$ FloorDeckLayer       :"Wood Siding/sheathing/decking"
+  ..$ SheathInsul2Layer    :"- no sheathing/insul. -"
+  ..$ MassLayer            :"- none -"
+  ..$ MassThickness        :"- none -"
+  ..$ FurringInsul2Layer   :"- no insulation -"
+  ..$ FurringInsulLayer    :"- no insulation -"
+  ..$ Furring2Layer        :"- none -"
+  ..$ FurringLayer         :"- none -"
+  ..$ CavityLayer          :"- no insulation (vertical) -"
+  ..$ FrameLayer           :"2x4 @ 16 in. O.C."
+  ..$ SheathInsulLayer     :"- no sheathing/insul. -"
+  ..$ WallExtFinishLayer   :"- select finish -"
+  ..$ OtherSideFinishLayer :"Gypsum Board"
+  ..$ FlrExtFinishLayer    :"- select finish -"
+  ..$ RadiantBarrier       :"0"
+  ..$ RaisedHeelTruss      :"0"
+  ..$ RaisedHeelTrussHeight:"3.5"
+  ..$ RoofingType          :"all others"
+ $ Cons           :List of 29
+  ..$ Name                 :"Ext R19 Floor"
+  ..$ CanAssignTo          :"Exterior Floors"
+  ..$ Type                 :"Wood Framed Floor"
+  ..$ RoofingLayer         :"Light Roof (Asphalt Shingle)"
+  ..$ AbvDeckInsulLayer    :"- no insulation -"
+  ..$ RoofDeckLayer        :"Wood Siding/sheathing/decking"
+  ..$ InsideFinishLayer    :"Gypsum Board"
+  ..$ AtticFloorLayer      :"- no attic floor -"
+  ..$ FloorSurfaceLayer    :"Carpeted"
+  ..$ FlrConcreteFillLayer :"- no concrete fill -"
+  ..$ FloorDeckLayer       :"Wood Siding/sheathing/decking"
+  ..$ SheathInsul2Layer    :"- no sheathing/insul. -"
+  ..$ MassLayer            :"- none -"
+  ..$ MassThickness        :"- none -"
+  ..$ FurringInsul2Layer   :"- no insulation -"
+  ..$ FurringInsulLayer    :"- no insulation -"
+  ..$ Furring2Layer        :"- none -"
+  ..$ FurringLayer         :"- none -"
+  ..$ CavityLayer          :"R 19"
+  ..$ FrameLayer           :"2x6 @ 16 in. O.C."
+  ..$ SheathInsulLayer     :"- no sheathing/insul. -"
+  ..$ WallExtFinishLayer   :"- select finish -"
+  ..$ OtherSideFinishLayer :"Gypsum Board"
+  ..$ FlrExtFinishLayer    :"- select finish -"
+  ..$ FlrExtConditions     :"Exterior"
+  ..$ RadiantBarrier       :"0"
+  ..$ RaisedHeelTruss      :"0"
+  ..$ RaisedHeelTrussHeight:"3.5"
+  ..$ RoofingType          :"all others"
+ $ Cons           :List of 28
+  ..$ Name                 :"Garage Ext Wall 2"
+  ..$ CanAssignTo          :"Exterior Walls"
+  ..$ Type                 :"Wood Framed Wall"
+  ..$ RoofingLayer         :"Light Roof (Asphalt Shingle)"
+  ..$ AbvDeckInsulLayer    :"- no insulation -"
+  ..$ RoofDeckLayer        :"Wood Siding/sheathing/decking"
+  ..$ InsideFinishLayer    :"Gypsum Board"
+  ..$ AtticFloorLayer      :"- no attic floor -"
+  ..$ FloorSurfaceLayer    :"Carpeted"
+  ..$ FlrConcreteFillLayer :"- no concrete fill -"
+  ..$ FloorDeckLayer       :"Wood Siding/sheathing/decking"
+  ..$ SheathInsul2Layer    :"- no sheathing/insul. -"
+  ..$ MassLayer            :"- none -"
+  ..$ MassThickness        :"- none -"
+  ..$ FurringInsul2Layer   :"- no insulation -"
+  ..$ FurringInsulLayer    :"- no insulation -"
+  ..$ Furring2Layer        :"- none -"
+  ..$ FurringLayer         :"- none -"
+  ..$ CavityLayer          :"- no insulation (vertical) -"
+  ..$ FrameLayer           :"2x6 @ 16 in. O.C."
+  ..$ SheathInsulLayer     :"- no sheathing/insul. -"
+  ..$ WallExtFinishLayer   :"3 Coat Stucco"
+  ..$ OtherSideFinishLayer :"Gypsum Board"
+  ..$ FlrExtFinishLayer    :"- select finish -"
+  ..$ RadiantBarrier       :"0"
+  ..$ RaisedHeelTruss      :"0"
+  ..$ RaisedHeelTrussHeight:"3.5"
+  ..$ RoofingType          :"all others"
+ $ Cons           :List of 28
+  ..$ Name                 :"R0 ClgBlwAttic Cons"
+  ..$ CanAssignTo          :"Ceilings (below attic)"
+  ..$ Type                 :"Wood Framed Ceiling"
+  ..$ RoofingLayer         :"Light Roof (Asphalt Shingle)"
+  ..$ AbvDeckInsulLayer    :"- no insulation -"
+  ..$ RoofDeckLayer        :"Wood Siding/sheathing/decking"
+  ..$ InsideFinishLayer    :"Gypsum Board"
+  ..$ AtticFloorLayer      :"- no attic floor -"
+  ..$ FloorSurfaceLayer    :"Carpeted"
+  ..$ FlrConcreteFillLayer :"- no concrete fill -"
+  ..$ FloorDeckLayer       :"Wood Siding/sheathing/decking"
+  ..$ SheathInsul2Layer    :"- no sheathing/insul. -"
+  ..$ MassLayer            :"- none -"
+  ..$ MassThickness        :"- none -"
+  ..$ FurringInsul2Layer   :"- no insulation -"
+  ..$ FurringInsulLayer    :"- no insulation -"
+  ..$ Furring2Layer        :"- none -"
+  ..$ FurringLayer         :"- none -"
+  ..$ CavityLayer          :"- no insulation -"
+  ..$ FrameLayer           :"2x4 Bottom Chord of Truss @ 24 in. O.C."
+  ..$ SheathInsulLayer     :"- no sheathing/insul. -"
+  ..$ WallExtFinishLayer   :"- select finish -"
+  ..$ OtherSideFinishLayer :"Gypsum Board"
+  ..$ FlrExtFinishLayer    :"- select finish -"
+  ..$ RadiantBarrier       :"0"
+  ..$ RaisedHeelTruss      :"0"
+  ..$ RaisedHeelTrussHeight:"3.5"
+  ..$ RoofingType          :"all others"
+ $ Cons           :List of 28
+  ..$ Name                 :"Gar House R15"
+  ..$ CanAssignTo          :"Interior Walls"
+  ..$ Type                 :"Wood Framed Wall"
+  ..$ RoofingLayer         :"Light Roof (Asphalt Shingle)"
+  ..$ AbvDeckInsulLayer    :"- no insulation -"
+  ..$ RoofDeckLayer        :"Wood Siding/sheathing/decking"
+  ..$ InsideFinishLayer    :"Gypsum Board"
+  ..$ AtticFloorLayer      :"- no attic floor -"
+  ..$ FloorSurfaceLayer    :"Carpeted"
+  ..$ FlrConcreteFillLayer :"- no concrete fill -"
+  ..$ FloorDeckLayer       :"Wood Siding/sheathing/decking"
+  ..$ SheathInsul2Layer    :"- no sheathing/insul. -"
+  ..$ MassLayer            :"- none -"
+  ..$ MassThickness        :"- none -"
+  ..$ FurringInsul2Layer   :"- no insulation -"
+  ..$ FurringInsulLayer    :"- no insulation -"
+  ..$ Furring2Layer        :"- none -"
+  ..$ FurringLayer         :"- none -"
+  ..$ CavityLayer          :"R 15"
+  ..$ FrameLayer           :"2x4 @ 16 in. O.C."
+  ..$ SheathInsulLayer     :"- no sheathing/insul. -"
+  ..$ WallExtFinishLayer   :"- select finish -"
+  ..$ OtherSideFinishLayer :"Gypsum Board"
+  ..$ FlrExtFinishLayer    :"- select finish -"
+  ..$ RadiantBarrier       :"0"
+  ..$ RaisedHeelTruss      :"0"
+  ..$ RaisedHeelTrussHeight:"3.5"
+  ..$ RoofingType          :"all others"
+ $ Cons           :List of 28
+  ..$ Name                 :"Asphalt Roof"
+  ..$ CanAssignTo          :"Attic Roofs"
+  ..$ Type                 :"Wood Framed Ceiling"
+  ..$ RoofingLayer         :"Light Roof (Asphalt Shingle)"
+  ..$ AbvDeckInsulLayer    :"- no insulation -"
+  ..$ RoofDeckLayer        :"Wood Siding/sheathing/decking"
+  ..$ InsideFinishLayer    :"- select inside finish -"
+  ..$ AtticFloorLayer      :"- no attic floor -"
+  ..$ FloorSurfaceLayer    :"Carpeted"
+  ..$ FlrConcreteFillLayer :"- no concrete fill -"
+  ..$ FloorDeckLayer       :"Wood Siding/sheathing/decking"
+  ..$ SheathInsul2Layer    :"- no sheathing/insul. -"
+  ..$ MassLayer            :"- none -"
+  ..$ MassThickness        :"- none -"
+  ..$ FurringInsul2Layer   :"- no insulation -"
+  ..$ FurringInsulLayer    :"- no insulation -"
+  ..$ Furring2Layer        :"- none -"
+  ..$ FurringLayer         :"- none -"
+  ..$ CavityLayer          :"- no insulation -"
+  ..$ FrameLayer           :"2x4 @ 24 in. O.C."
+  ..$ SheathInsulLayer     :"- no sheathing/insul. -"
+  ..$ WallExtFinishLayer   :"- select finish -"
+  ..$ OtherSideFinishLayer :"Gypsum Board"
+  ..$ FlrExtFinishLayer    :"- select finish -"
+  ..$ RadiantBarrier       :"0"
+  ..$ RaisedHeelTruss      :"0"
+  ..$ RaisedHeelTrussHeight:"3.5"
+  ..$ RoofingType          :"all others"
+ $ Cons           :List of 28
+  ..$ Name                 :"Asphalt RB Roof"
+  ..$ CanAssignTo          :"Attic Roofs"
+  ..$ Type                 :"Wood Framed Ceiling"
+  ..$ RoofingLayer         :"Light Roof (Asphalt Shingle)"
+  ..$ AbvDeckInsulLayer    :"- no insulation -"
+  ..$ RoofDeckLayer        :"Wood Siding/sheathing/decking"
+  ..$ InsideFinishLayer    :"- select inside finish -"
+  ..$ AtticFloorLayer      :"- no attic floor -"
+  ..$ FloorSurfaceLayer    :"Carpeted"
+  ..$ FlrConcreteFillLayer :"- no concrete fill -"
+  ..$ FloorDeckLayer       :"Wood Siding/sheathing/decking"
+  ..$ SheathInsul2Layer    :"- no sheathing/insul. -"
+  ..$ MassLayer            :"- none -"
+  ..$ MassThickness        :"- none -"
+  ..$ FurringInsul2Layer   :"- no insulation -"
+  ..$ FurringInsulLayer    :"- no insulation -"
+  ..$ Furring2Layer        :"- none -"
+  ..$ FurringLayer         :"- none -"
+  ..$ CavityLayer          :"- no insulation -"
+  ..$ FrameLayer           :"2x4 @ 24 in. O.C."
+  ..$ SheathInsulLayer     :"- no sheathing/insul. -"
+  ..$ WallExtFinishLayer   :"- select finish -"
+  ..$ OtherSideFinishLayer :"Gypsum Board"
+  ..$ FlrExtFinishLayer    :"- select finish -"
+  ..$ RadiantBarrier       :"1"
+  ..$ RaisedHeelTruss      :"0"
+  ..$ RaisedHeelTrussHeight:"3.5"
+  ..$ RoofingType          :"all others"
+ $ Cons           :List of 28
+  ..$ Name                 :"Tile High Performance"
+  ..$ CanAssignTo          :"Attic Roofs"
+  ..$ Type                 :"Wood Framed Ceiling"
+  ..$ RoofingLayer         :"10 PSF (RoofTile)"
+  ..$ AbvDeckInsulLayer    :"- no insulation -"
+  ..$ RoofDeckLayer        :"Wood Siding/sheathing/decking"
+  ..$ InsideFinishLayer    :"- select inside finish -"
+  ..$ AtticFloorLayer      :"- no attic floor -"
+  ..$ FloorSurfaceLayer    :"Carpeted"
+  ..$ FlrConcreteFillLayer :"- no concrete fill -"
+  ..$ FloorDeckLayer       :"Wood Siding/sheathing/decking"
+  ..$ SheathInsul2Layer    :"- no sheathing/insul. -"
+  ..$ MassLayer            :"- none -"
+  ..$ MassThickness        :"- none -"
+  ..$ FurringInsul2Layer   :"- no insulation -"
+  ..$ FurringInsulLayer    :"- no insulation -"
+  ..$ Furring2Layer        :"- none -"
+  ..$ FurringLayer         :"- none -"
+  ..$ CavityLayer          :"R 13"
+  ..$ FrameLayer           :"2x4 @ 24 in. O.C."
+  ..$ SheathInsulLayer     :"- no sheathing/insul. -"
+  ..$ WallExtFinishLayer   :"- select finish -"
+  ..$ OtherSideFinishLayer :"Gypsum Board"
+  ..$ FlrExtFinishLayer    :"- select finish -"
+  ..$ RadiantBarrier       :"0"
+  ..$ RaisedHeelTruss      :"0"
+  ..$ RaisedHeelTrussHeight:"3.5"
+  ..$ RoofingType          :"Steep Slope Roof tile, metal tile, or wood shakes"
+ $ Cons           :List of 28
+  ..$ Name                 :"Tile Roof"
+  ..$ CanAssignTo          :"Attic Roofs"
+  ..$ Type                 :"Wood Framed Ceiling"
+  ..$ RoofingLayer         :"10 PSF (RoofTile)"
+  ..$ AbvDeckInsulLayer    :"- no insulation -"
+  ..$ RoofDeckLayer        :"Wood Siding/sheathing/decking"
+  ..$ InsideFinishLayer    :"- select inside finish -"
+  ..$ AtticFloorLayer      :"- no attic floor -"
+  ..$ FloorSurfaceLayer    :"Carpeted"
+  ..$ FlrConcreteFillLayer :"- no concrete fill -"
+  ..$ FloorDeckLayer       :"Wood Siding/sheathing/decking"
+  ..$ SheathInsul2Layer    :"- no sheathing/insul. -"
+  ..$ MassLayer            :"- none -"
+  ..$ MassThickness        :"- none -"
+  ..$ FurringInsul2Layer   :"- no insulation -"
+  ..$ FurringInsulLayer    :"- no insulation -"
+  ..$ Furring2Layer        :"- none -"
+  ..$ FurringLayer         :"- none -"
+  ..$ CavityLayer          :"- no insulation -"
+  ..$ FrameLayer           :"2x4 @ 24 in. O.C."
+  ..$ SheathInsulLayer     :"- no sheathing/insul. -"
+  ..$ WallExtFinishLayer   :"- select finish -"
+  ..$ OtherSideFinishLayer :"Gypsum Board"
+  ..$ FlrExtFinishLayer    :"- select finish -"
+  ..$ RadiantBarrier       :"0"
+  ..$ RaisedHeelTruss      :"0"
+  ..$ RaisedHeelTrussHeight:"3.5"
+  ..$ RoofingType          :"Steep Slope Roof tile, metal tile, or wood shakes"
+ $ Cons           :List of 28
+  ..$ Name                 :"R38 Ceiling below attic"
+  ..$ CanAssignTo          :"Ceilings (below attic)"
+  ..$ Type                 :"Wood Framed Ceiling"
+  ..$ RoofingLayer         :"Light Roof (Asphalt Shingle)"
+  ..$ AbvDeckInsulLayer    :"- no insulation -"
+  ..$ RoofDeckLayer        :"Wood Siding/sheathing/decking"
+  ..$ InsideFinishLayer    :"Gypsum Board"
+  ..$ AtticFloorLayer      :"- no attic floor -"
+  ..$ FloorSurfaceLayer    :"Carpeted"
+  ..$ FlrConcreteFillLayer :"- no concrete fill -"
+  ..$ FloorDeckLayer       :"Wood Siding/sheathing/decking"
+  ..$ SheathInsul2Layer    :"- no sheathing/insul. -"
+  ..$ MassLayer            :"- none -"
+  ..$ MassThickness        :"- none -"
+  ..$ FurringInsul2Layer   :"- no insulation -"
+  ..$ FurringInsulLayer    :"- no insulation -"
+  ..$ Furring2Layer        :"- none -"
+  ..$ FurringLayer         :"- none -"
+  ..$ CavityLayer          :"R 38"
+  ..$ FrameLayer           :"2x4 Bottom Chord of Truss @ 24 in. O.C."
+  ..$ SheathInsulLayer     :"- no sheathing/insul. -"
+  ..$ WallExtFinishLayer   :"- select finish -"
+  ..$ OtherSideFinishLayer :"Gypsum Board"
+  ..$ FlrExtFinishLayer    :"- select finish -"
+  ..$ RadiantBarrier       :"0"
+  ..$ RaisedHeelTruss      :"0"
+  ..$ RaisedHeelTrussHeight:"3.5"
+  ..$ RoofingType          :"all others"
+ $ Cons           :List of 28
+  ..$ Name                 :"R30 Ceiling below attic"
+  ..$ CanAssignTo          :"Ceilings (below attic)"
+  ..$ Type                 :"Wood Framed Ceiling"
+  ..$ RoofingLayer         :"Light Roof (Asphalt Shingle)"
+  ..$ AbvDeckInsulLayer    :"- no insulation -"
+  ..$ RoofDeckLayer        :"Wood Siding/sheathing/decking"
+  ..$ InsideFinishLayer    :"Gypsum Board"
+  ..$ AtticFloorLayer      :"- no attic floor -"
+  ..$ FloorSurfaceLayer    :"Carpeted"
+  ..$ FlrConcreteFillLayer :"- no concrete fill -"
+  ..$ FloorDeckLayer       :"Wood Siding/sheathing/decking"
+  ..$ SheathInsul2Layer    :"- no sheathing/insul. -"
+  ..$ MassLayer            :"- none -"
+  ..$ MassThickness        :"- none -"
+  ..$ FurringInsul2Layer   :"- no insulation -"
+  ..$ FurringInsulLayer    :"- no insulation -"
+  ..$ Furring2Layer        :"- none -"
+  ..$ FurringLayer         :"- none -"
+  ..$ CavityLayer          :"R 30"
+  ..$ FrameLayer           :"2x4 Bottom Chord of Truss @ 24 in. O.C."
+  ..$ SheathInsulLayer     :"- no sheathing/insul. -"
+  ..$ WallExtFinishLayer   :"- select finish -"
+  ..$ OtherSideFinishLayer :"Gypsum Board"
+  ..$ FlrExtFinishLayer    :"- select finish -"
+  ..$ RadiantBarrier       :"0"
+  ..$ RaisedHeelTruss      :"0"
+  ..$ RaisedHeelTrussHeight:"3.5"
+  ..$ RoofingType          :"all others"
+ $ Cons           :List of 28
+  ..$ Name                 :"R30 Cathedral Ceiling"
+  ..$ CanAssignTo          :"Cathedral Ceilings"
+  ..$ Type                 :"Wood Framed Ceiling"
+  ..$ RoofingLayer         :"Light Roof (Asphalt Shingle)"
+  ..$ AbvDeckInsulLayer    :"- no insulation -"
+  ..$ RoofDeckLayer        :"Wood Siding/sheathing/decking"
+  ..$ InsideFinishLayer    :"Gypsum Board"
+  ..$ AtticFloorLayer      :"- no attic floor -"
+  ..$ FloorSurfaceLayer    :"Carpeted"
+  ..$ FlrConcreteFillLayer :"- no concrete fill -"
+  ..$ FloorDeckLayer       :"Wood Siding/sheathing/decking"
+  ..$ SheathInsul2Layer    :"- no sheathing/insul. -"
+  ..$ MassLayer            :"- none -"
+  ..$ MassThickness        :"- none -"
+  ..$ FurringInsul2Layer   :"- no insulation -"
+  ..$ FurringInsulLayer    :"- no insulation -"
+  ..$ Furring2Layer        :"- none -"
+  ..$ FurringLayer         :"- none -"
+  ..$ CavityLayer          :"R 30"
+  ..$ FrameLayer           :"2x10 @ 24 in. O.C."
+  ..$ SheathInsulLayer     :"- no sheathing/insul. -"
+  ..$ WallExtFinishLayer   :"- select finish -"
+  ..$ OtherSideFinishLayer :"Gypsum Board"
+  ..$ FlrExtFinishLayer    :"- select finish -"
+  ..$ RadiantBarrier       :"0"
+  ..$ RaisedHeelTruss      :"0"
+  ..$ RaisedHeelTrussHeight:"3.5"
+  ..$ RoofingType          :"all others"
+ $ Cons           :List of 28
+  ..$ Name                 :"R38 Cathedral Ceiling"
+  ..$ CanAssignTo          :"Cathedral Ceilings"
+  ..$ Type                 :"Wood Framed Ceiling"
+  ..$ RoofingLayer         :"Light Roof (Asphalt Shingle)"
+  ..$ AbvDeckInsulLayer    :"- no insulation -"
+  ..$ RoofDeckLayer        :"Wood Siding/sheathing/decking"
+  ..$ InsideFinishLayer    :"Gypsum Board"
+  ..$ AtticFloorLayer      :"- no attic floor -"
+  ..$ FloorSurfaceLayer    :"Carpeted"
+  ..$ FlrConcreteFillLayer :"- no concrete fill -"
+  ..$ FloorDeckLayer       :"Wood Siding/sheathing/decking"
+  ..$ SheathInsul2Layer    :"- no sheathing/insul. -"
+  ..$ MassLayer            :"- none -"
+  ..$ MassThickness        :"- none -"
+  ..$ FurringInsul2Layer   :"- no insulation -"
+  ..$ FurringInsulLayer    :"- no insulation -"
+  ..$ Furring2Layer        :"- none -"
+  ..$ FurringLayer         :"- none -"
+  ..$ CavityLayer          :"R 38"
+  ..$ FrameLayer           :"2x12 @ 24 in. O.C."
+  ..$ SheathInsulLayer     :"- no sheathing/insul. -"
+  ..$ WallExtFinishLayer   :"- select finish -"
+  ..$ OtherSideFinishLayer :"Gypsum Board"
+  ..$ FlrExtFinishLayer    :"- select finish -"
+  ..$ RadiantBarrier       :"0"
+  ..$ RaisedHeelTruss      :"0"
+  ..$ RaisedHeelTrussHeight:"3.5"
+  ..$ RoofingType          :"all others"
+ $ Cons           :List of 28
+  ..$ Name                 :"R15 Wall"
+  ..$ CanAssignTo          :"Exterior Walls"
+  ..$ Type                 :"Wood Framed Wall"
+  ..$ RoofingLayer         :"Light Roof (Asphalt Shingle)"
+  ..$ AbvDeckInsulLayer    :"- no insulation -"
+  ..$ RoofDeckLayer        :"Wood Siding/sheathing/decking"
+  ..$ InsideFinishLayer    :"Gypsum Board"
+  ..$ AtticFloorLayer      :"- no attic floor -"
+  ..$ FloorSurfaceLayer    :"Carpeted"
+  ..$ FlrConcreteFillLayer :"- no concrete fill -"
+  ..$ FloorDeckLayer       :"Wood Siding/sheathing/decking"
+  ..$ SheathInsul2Layer    :"- no sheathing/insul. -"
+  ..$ MassLayer            :"- none -"
+  ..$ MassThickness        :"- none -"
+  ..$ FurringInsul2Layer   :"- no insulation -"
+  ..$ FurringInsulLayer    :"- no insulation -"
+  ..$ Furring2Layer        :"- none -"
+  ..$ FurringLayer         :"- none -"
+  ..$ CavityLayer          :"R 15"
+  ..$ FrameLayer           :"2x4 @ 16 in. O.C."
+  ..$ SheathInsulLayer     :"- no sheathing/insul. -"
+  ..$ WallExtFinishLayer   :"3 Coat Stucco"
+  ..$ OtherSideFinishLayer :"Gypsum Board"
+  ..$ FlrExtFinishLayer    :"- select finish -"
+  ..$ RadiantBarrier       :"0"
+  ..$ RaisedHeelTruss      :"0"
+  ..$ RaisedHeelTrussHeight:"3.5"
+  ..$ RoofingType          :"all others"
+ $ Cons           :List of 28
+  ..$ Name                 :"R19 R5 Stucco Wall"
+  ..$ CanAssignTo          :"Exterior Walls"
+  ..$ Type                 :"Wood Framed Wall"
+  ..$ RoofingLayer         :"Light Roof (Asphalt Shingle)"
+  ..$ AbvDeckInsulLayer    :"- no insulation -"
+  ..$ RoofDeckLayer        :"Wood Siding/sheathing/decking"
+  ..$ InsideFinishLayer    :"Gypsum Board"
+  ..$ AtticFloorLayer      :"- no attic floor -"
+  ..$ FloorSurfaceLayer    :"Carpeted"
+  ..$ FlrConcreteFillLayer :"- no concrete fill -"
+  ..$ FloorDeckLayer       :"Wood Siding/sheathing/decking"
+  ..$ SheathInsul2Layer    :"- no sheathing/insul. -"
+  ..$ MassLayer            :"- none -"
+  ..$ MassThickness        :"- none -"
+  ..$ FurringInsul2Layer   :"- no insulation -"
+  ..$ FurringInsulLayer    :"- no insulation -"
+  ..$ Furring2Layer        :"- none -"
+  ..$ FurringLayer         :"- none -"
+  ..$ CavityLayer          :"R 19"
+  ..$ FrameLayer           :"2x6 @ 16 in. O.C."
+  ..$ SheathInsulLayer     :"R1 Sheathing"
+  ..$ WallExtFinishLayer   :"R4 Synthetic Stucco"
+  ..$ OtherSideFinishLayer :"Gypsum Board"
+  ..$ FlrExtFinishLayer    :"- select finish -"
+  ..$ RadiantBarrier       :"0"
+  ..$ RaisedHeelTruss      :"0"
+  ..$ RaisedHeelTrussHeight:"3.5"
+  ..$ RoofingType          :"all others"
+ $ Cons           :List of 28
+  ..$ Name                 :"R19 Wall"
+  ..$ CanAssignTo          :"Exterior Walls"
+  ..$ Type                 :"Wood Framed Wall"
+  ..$ RoofingLayer         :"Light Roof (Asphalt Shingle)"
+  ..$ AbvDeckInsulLayer    :"- no insulation -"
+  ..$ RoofDeckLayer        :"Wood Siding/sheathing/decking"
+  ..$ InsideFinishLayer    :"Gypsum Board"
+  ..$ AtticFloorLayer      :"- no attic floor -"
+  ..$ FloorSurfaceLayer    :"Carpeted"
+  ..$ FlrConcreteFillLayer :"- no concrete fill -"
+  ..$ FloorDeckLayer       :"Wood Siding/sheathing/decking"
+  ..$ SheathInsul2Layer    :"- no sheathing/insul. -"
+  ..$ MassLayer            :"- none -"
+  ..$ MassThickness        :"- none -"
+  ..$ FurringInsul2Layer   :"- no insulation -"
+  ..$ FurringInsulLayer    :"- no insulation -"
+  ..$ Furring2Layer        :"- none -"
+  ..$ FurringLayer         :"- none -"
+  ..$ CavityLayer          :"R 19"
+  ..$ FrameLayer           :"2x6 @ 16 in. O.C."
+  ..$ SheathInsulLayer     :"- no sheathing/insul. -"
+  ..$ WallExtFinishLayer   :"3 Coat Stucco"
+  ..$ OtherSideFinishLayer :"Gypsum Board"
+  ..$ FlrExtFinishLayer    :"- select finish -"
+  ..$ RadiantBarrier       :"0"
+  ..$ RaisedHeelTruss      :"0"
+  ..$ RaisedHeelTrussHeight:"3.5"
+  ..$ RoofingType          :"all others"
+ $ Cons           :List of 28
+  ..$ Name                 :"R19 R4 Stucco Wall"
+  ..$ CanAssignTo          :"Exterior Walls"
+  ..$ Type                 :"Wood Framed Wall"
+  ..$ RoofingLayer         :"Light Roof (Asphalt Shingle)"
+  ..$ AbvDeckInsulLayer    :"- no insulation -"
+  ..$ RoofDeckLayer        :"Wood Siding/sheathing/decking"
+  ..$ InsideFinishLayer    :"Gypsum Board"
+  ..$ AtticFloorLayer      :"- no attic floor -"
+  ..$ FloorSurfaceLayer    :"Carpeted"
+  ..$ FlrConcreteFillLayer :"- no concrete fill -"
+  ..$ FloorDeckLayer       :"Wood Siding/sheathing/decking"
+  ..$ SheathInsul2Layer    :"- no sheathing/insul. -"
+  ..$ MassLayer            :"- none -"
+  ..$ MassThickness        :"- none -"
+  ..$ FurringInsul2Layer   :"- no insulation -"
+  ..$ FurringInsulLayer    :"- no insulation -"
+  ..$ Furring2Layer        :"- none -"
+  ..$ FurringLayer         :"- none -"
+  ..$ CavityLayer          :"R 19"
+  ..$ FrameLayer           :"2x6 @ 16 in. O.C."
+  ..$ SheathInsulLayer     :"- no sheathing/insul. -"
+  ..$ WallExtFinishLayer   :"R4 Synthetic Stucco"
+  ..$ OtherSideFinishLayer :"Gypsum Board"
+  ..$ FlrExtFinishLayer    :"- select finish -"
+  ..$ RadiantBarrier       :"0"
+  ..$ RaisedHeelTruss      :"0"
+  ..$ RaisedHeelTrussHeight:"3.5"
+  ..$ RoofingType          :"all others"
+ $ Cons           :List of 28
+  ..$ Name                 :"R19 2x6 FlrOvrCrawl"
+  ..$ CanAssignTo          :"Floors Over Crawlspace"
+  ..$ Type                 :"Wood Framed Floor"
+  ..$ RoofingLayer         :"Light Roof (Asphalt Shingle)"
+  ..$ AbvDeckInsulLayer    :"- no insulation -"
+  ..$ RoofDeckLayer        :"Wood Siding/sheathing/decking"
+  ..$ InsideFinishLayer    :"Gypsum Board"
+  ..$ AtticFloorLayer      :"- no attic floor -"
+  ..$ FloorSurfaceLayer    :"Carpeted"
+  ..$ FlrConcreteFillLayer :"- no concrete fill -"
+  ..$ FloorDeckLayer       :"Wood Siding/sheathing/decking"
+  ..$ SheathInsul2Layer    :"- no sheathing/insul. -"
+  ..$ MassLayer            :"- none -"
+  ..$ MassThickness        :"- none -"
+  ..$ FurringInsul2Layer   :"- no insulation -"
+  ..$ FurringInsulLayer    :"- no insulation -"
+  ..$ Furring2Layer        :"- none -"
+  ..$ FurringLayer         :"- none -"
+  ..$ CavityLayer          :"R 19"
+  ..$ FrameLayer           :"2x6 @ 16 in. O.C."
+  ..$ SheathInsulLayer     :"- no sheathing/insul. -"
+  ..$ WallExtFinishLayer   :"- select finish -"
+  ..$ OtherSideFinishLayer :"Gypsum Board"
+  ..$ FlrExtFinishLayer    :"- select finish -"
+  ..$ RadiantBarrier       :"0"
+  ..$ RaisedHeelTruss      :"0"
+  ..$ RaisedHeelTrussHeight:"3.5"
+  ..$ RoofingType          :"all others"
+ $ Cons           :List of 28
+  ..$ Name                 :"Cathedral R0"
+  ..$ CanAssignTo          :"Cathedral Ceilings"
+  ..$ Type                 :"Wood Framed Ceiling"
+  ..$ RoofingLayer         :"Light Roof (Asphalt Shingle)"
+  ..$ AbvDeckInsulLayer    :"- no insulation -"
+  ..$ RoofDeckLayer        :"Wood Siding/sheathing/decking"
+  ..$ InsideFinishLayer    :"Gypsum Board"
+  ..$ AtticFloorLayer      :"- no attic floor -"
+  ..$ FloorSurfaceLayer    :"Carpeted"
+  ..$ FlrConcreteFillLayer :"- no concrete fill -"
+  ..$ FloorDeckLayer       :"Wood Siding/sheathing/decking"
+  ..$ SheathInsul2Layer    :"- no sheathing/insul. -"
+  ..$ MassLayer            :"- none -"
+  ..$ MassThickness        :"- none -"
+  ..$ FurringInsul2Layer   :"- no insulation -"
+  ..$ FurringInsulLayer    :"- no insulation -"
+  ..$ Furring2Layer        :"- none -"
+  ..$ FurringLayer         :"- none -"
+  ..$ CavityLayer          :"- no insulation -"
+  ..$ FrameLayer           :"2x4 @ 16 in. O.C."
+  ..$ SheathInsulLayer     :"- no sheathing/insul. -"
+  ..$ WallExtFinishLayer   :"- select finish -"
+  ..$ OtherSideFinishLayer :"Gypsum Board"
+  ..$ FlrExtFinishLayer    :"- select finish -"
+  ..$ RadiantBarrier       :"0"
+  ..$ RaisedHeelTruss      :"0"
+  ..$ RaisedHeelTrussHeight:"3.5"
+  ..$ RoofingType          :"all others"
+ $ Mat            :List of 6
+  ..$ Name        :"Gypsum Board"
+  ..$ Thickness   :"0.5"
+  ..$ Density     :"40"
+  ..$ SpecHeat    :"0.27"
+  ..$ Conductivity:"0.09167"
+  ..$ RValPerInch :"0.9091"
+ $ Mat            :List of 6
+  ..$ Name        :"3 Coat Stucco"
+  ..$ Thickness   :"0.875"
+  ..$ Density     :"116"
+  ..$ SpecHeat    :"0.2"
+  ..$ Conductivity:"0.4167"
+  ..$ RValPerInch :"0.2"
+ $ Mat            :List of 5
+  ..$ Name        :"SoftWood"
+  ..$ Density     :"35"
+  ..$ SpecHeat    :"0.39"
+  ..$ Conductivity:"0.08167"
+  ..$ RValPerInch :"1.0204"
+ $ Mat            :List of 6
+  ..$ Name        :"Wood layer"
+  ..$ Thickness   :"0.5"
+  ..$ Density     :"41"
+  ..$ SpecHeat    :"0.45"
+  ..$ Conductivity:"0.06127"
+  ..$ RValPerInch :"1.36"
+ $ Mat            :List of 6
+  ..$ Name        :"Light Roof"
+  ..$ Thickness   :"0.2"
+  ..$ Density     :"120"
+  ..$ SpecHeat    :"0.2"
+  ..$ Conductivity:"1"
+  ..$ RValPerInch :"0.0833"
+ $ Mat            :List of 6
+  ..$ Name        :"Carpet"
+  ..$ Thickness   :"0.5"
+  ..$ Density     :"12.3"
+  ..$ SpecHeat    :"0.34"
+  ..$ Conductivity:"0.02"
+  ..$ RValPerInch :"4.1667"
+ $ Mat            :List of 6
+  ..$ Name        :"R4 Sheathing"
+  ..$ Thickness   :"1"
+  ..$ Density     :"1.5"
+  ..$ SpecHeat    :"0.35"
+  ..$ Conductivity:"0.02083"
+  ..$ RValPerInch :"4"
+ $ Mat            :List of 7
+  ..$ Name          :"VertWallCavity"
+  ..$ Thickness     :"3.5"
+  ..$ Density       :"0.075"
+  ..$ SpecHeat      :"0.24"
+  ..$ Conductivity  :"0.314"
+  ..$ ConductivityCT:"0.00397"
+  ..$ RValPerInch   :"1.1333"
+ $ Mat            :List of 7
+  ..$ Name          :"R4 Synth Stucco"
+  ..$ Thickness     :"1"
+  ..$ Density       :"1.5"
+  ..$ SpecHeat      :"0.35"
+  ..$ Conductivity  :"0.02083"
+  ..$ ConductivityCT:"0.00418"
+  ..$ RValPerInch   :"4"
+ $ Mat            :List of 7
+  ..$ Name          :"R1 Sheathing"
+  ..$ Thickness     :"1"
+  ..$ Density       :"1.5"
+  ..$ SpecHeat      :"0.35"
+  ..$ Conductivity  :"0.08333"
+  ..$ ConductivityCT:"0.00418"
+  ..$ RValPerInch   :"1"
+ $ Mat            :List of 7
+  ..$ Name          :"R4 Sheathing (Copy)"
+  ..$ Thickness     :"1"
+  ..$ Density       :"1.5"
+  ..$ SpecHeat      :"0.35"
+  ..$ Conductivity  :"0.02083"
+  ..$ ConductivityCT:"0.00418"
+  ..$ RValPerInch   :"4"
+ $ Mat            :List of 6
+  ..$ Name        :"TileGap"
+  ..$ Thickness   :"0.75"
+  ..$ Density     :"0.075"
+  ..$ SpecHeat    :"0.24"
+  ..$ Conductivity:"0.07353"
+  ..$ RValPerInch :"1.1333"
+ $ Mat            :List of 6
+  ..$ Name        :"10 PSF Roof"
+  ..$ Thickness   :"1"
+  ..$ Density     :"120"
+  ..$ SpecHeat    :"0.2"
+  ..$ Conductivity:"1"
+  ..$ RValPerInch :"0.0833"
+ $ Mat            :List of 6
+  ..$ Name          :"SoftWood-2"
+  ..$ Density       :"35"
+  ..$ SpecHeat      :"0.39"
+  ..$ Conductivity  :"0.08167"
+  ..$ ConductivityCT:"0.0012"
+  ..$ RValPerInch   :"1.0204"
+ $ Mat            :List of 5
+  ..$ Name        :"Steel"
+  ..$ Density     :"489"
+  ..$ SpecHeat    :"0.12"
+  ..$ Conductivity:"26.2"
+  ..$ RValPerInch :"0.00318"
+ $ Mat            :List of 7
+  ..$ Name          :"SIPSskin"
+  ..$ Thickness     :"0.4375"
+  ..$ Density       :"41"
+  ..$ SpecHeat      :"0.45"
+  ..$ Conductivity  :"0.06127"
+  ..$ ConductivityCT:"0.0012"
+  ..$ RValPerInch   :"1.36"
+ $ Mat            :List of 4
+  ..$ Name          :"Ceiling Insul"
+  ..$ Density       :"1.5"
+  ..$ SpecHeat      :"0.2"
+  ..$ ConductivityCT:"0.00418"
+ $ Mat            :List of 4
+  ..$ Name          :"Other Insul"
+  ..$ Density       :"1.5"
+  ..$ SpecHeat      :"0.2"
+  ..$ ConductivityCT:"0.0032537"
+ $ Mat            :List of 7
+  ..$ Name          :"Wood layer-2"
+  ..$ Thickness     :"0.5"
+  ..$ Density       :"41"
+  ..$ SpecHeat      :"0.45"
+  ..$ Conductivity  :"0.06127"
+  ..$ ConductivityCT:"0.0012"
+  ..$ RValPerInch   :"1.36"
+ $ Mat            :List of 7
+  ..$ Name          :"Gypsum Board-2"
+  ..$ Thickness     :"0.5"
+  ..$ Density       :"40"
+  ..$ SpecHeat      :"0.27"
+  ..$ Conductivity  :"0.09167"
+  ..$ ConductivityCT:"0.0001217"
+  ..$ RValPerInch   :"0.9091"
+ $ Mat            :List of 7
+  ..$ Name          :"R4 Synth Stucco-2"
+  ..$ Thickness     :"1"
+  ..$ Density       :"1.5"
+  ..$ SpecHeat      :"0.35"
+  ..$ Conductivity  :"0.02083"
+  ..$ ConductivityCT:"0.00175"
+  ..$ RValPerInch   :"4"
+ $ Mat            :List of 6
+  ..$ Name           :"Ins-R19-D1.5-SH0.2-C0.02412"
+  ..$ Density        :"1.5"
+  ..$ SpecHeat       :"0.2"
+  ..$ Conductivity   :"0.0241228"
+  ..$ ConductivityQII:"0.0344612"
+  ..$ ConductivityCT :"0.0032537"
+ $ Mat            :List of 6
+  ..$ Name           :"Ins-R15-D1.5-SH0.2-C0.01944"
+  ..$ Density        :"1.5"
+  ..$ SpecHeat       :"0.2"
+  ..$ Conductivity   :"0.0194444"
+  ..$ ConductivityQII:"0.0277778"
+  ..$ ConductivityCT :"0.0032537"
+ $ Mat            :List of 6
+  ..$ Name           :"Ins-R9.1-D1.5-SH0.2-C0.03205"
+  ..$ Density        :"1.5"
+  ..$ SpecHeat       :"0.2"
+  ..$ Conductivity   :"0.0320513"
+  ..$ ConductivityQII:"0.0387027"
+  ..$ ConductivityCT :"0.00418"
+ $ Mat            :List of 6
+  ..$ Name           :"Ins-R9.1-D1.5-SH0.2-C0.03205 25"
+  ..$ Density        :"1.5"
+  ..$ SpecHeat       :"0.2"
+  ..$ Conductivity   :"0.0320513"
+  ..$ ConductivityQII:"0.0374475"
+  ..$ ConductivityCT :"0.00418"
+ $ Mat            :List of 6
+  ..$ Name           :"Ins-R30-D1.5-SH0.2-C0.02569"
+  ..$ Density        :"1.5"
+  ..$ SpecHeat       :"0.2"
+  ..$ Conductivity   :"0.0256944"
+  ..$ ConductivityQII:"0.0367064"
+  ..$ ConductivityCT :"0.00418"
+ $ Mat            :List of 6
+  ..$ Name           :"Ins-R38-D1.5-SH0.2-C0.02467"
+  ..$ Density        :"1.5"
+  ..$ SpecHeat       :"0.2"
+  ..$ Conductivity   :"0.0246711"
+  ..$ ConductivityQII:"0.0352444"
+  ..$ ConductivityCT :"0.00418"
+ $ Mat            :List of 6
+  ..$ Name           :"Ins-R13-D1.5-SH0.2-C0.02244"
+  ..$ Density        :"1.5"
+  ..$ SpecHeat       :"0.2"
+  ..$ Conductivity   :"0.0224376"
+  ..$ ConductivityQII:"0.0320538"
+  ..$ ConductivityCT :"0.0032537"
+ $ Mat            :List of 6
+  ..$ Name           :"Ins-R19-D1.5-SH0.2-C0.01535"
+  ..$ Density        :"1.5"
+  ..$ SpecHeat       :"0.2"
+  ..$ Conductivity   :"0.0153509"
+  ..$ ConductivityQII:"0.0219298"
+  ..$ ConductivityCT :"0.0032537"
+ $ Mat            :List of 7
+  ..$ Name           :"Shthg-R1-D1.5-SH0.35-C0.08333"
+  ..$ Thickness      :"1"
+  ..$ Density        :"1.5"
+  ..$ SpecHeat       :"0.35"
+  ..$ Conductivity   :"0.08333"
+  ..$ ConductivityQII:"0.08333"
+  ..$ ConductivityCT :"0.00175"
+ $ WindowType     :List of 19
+  ..$ Name             :"SGD"
+  ..$ SpecMethod       :"Window Dimensions (required for fins/overhangs)"
+  ..$ NFRCUfactor      :"0.32"
+  ..$ NFRCSHGC         :"0.25"
+  ..$ ExteriorShade    :"Insect Screen (default)"
+  ..$ ModelFinsOverhang:"1"
+  ..$ OverhangDepth    :"0"
+  ..$ OverhangDistUp   :"0"
+  ..$ OverhangExL      :"0"
+  ..$ OverhangExR      :"0"
+  ..$ OverhangFlap     :"0"
+  ..$ LeftFinDepth     :"0"
+  ..$ LeftFinTopUp     :"0"
+  ..$ LeftFinDistL     :"0"
+  ..$ LeftFinBotUp     :"0"
+  ..$ RightFinDepth    :"0"
+  ..$ RightFinTopUp    :"0"
+  ..$ RightFinDistR    :"0"
+  ..$ RightFinBotUp    :"0"
+ $ WindowType     :List of 19
+  ..$ Name             :"Oper"
+  ..$ SpecMethod       :"Window Dimensions (required for fins/overhangs)"
+  ..$ NFRCUfactor      :"0.32"
+  ..$ NFRCSHGC         :"0.25"
+  ..$ ExteriorShade    :"Insect Screen (default)"
+  ..$ ModelFinsOverhang:"1"
+  ..$ OverhangDepth    :"0"
+  ..$ OverhangDistUp   :"0"
+  ..$ OverhangExL      :"0"
+  ..$ OverhangExR      :"0"
+  ..$ OverhangFlap     :"0"
+  ..$ LeftFinDepth     :"0"
+  ..$ LeftFinTopUp     :"0"
+  ..$ LeftFinDistL     :"0"
+  ..$ LeftFinBotUp     :"0"
+  ..$ RightFinDepth    :"0"
+  ..$ RightFinTopUp    :"0"
+  ..$ RightFinDistR    :"0"
+  ..$ RightFinBotUp    :"0"
+ $ WindowType     :List of 19
+  ..$ Name             :"Fix"
+  ..$ SpecMethod       :"Window Dimensions (required for fins/overhangs)"
+  ..$ NFRCUfactor      :"0.32"
+  ..$ NFRCSHGC         :"0.25"
+  ..$ ExteriorShade    :"Insect Screen (default)"
+  ..$ ModelFinsOverhang:"1"
+  ..$ OverhangDepth    :"0"
+  ..$ OverhangDistUp   :"0"
+  ..$ OverhangExL      :"0"
+  ..$ OverhangExR      :"0"
+  ..$ OverhangFlap     :"0"
+  ..$ LeftFinDepth     :"0"
+  ..$ LeftFinTopUp     :"0"
+  ..$ LeftFinDistL     :"0"
+  ..$ LeftFinBotUp     :"0"
+  ..$ RightFinDepth    :"0"
+  ..$ RightFinTopUp    :"0"
+  ..$ RightFinDistR    :"0"
+  ..$ RightFinBotUp    :"0"
+ $ WindowType     :List of 19
+  ..$ Name             :"Glass Block"
+  ..$ SpecMethod       :"Window Dimensions (required for fins/overhangs)"
+  ..$ NFRCUfactor      :"0.57"
+  ..$ NFRCSHGC         :"0.67"
+  ..$ ExteriorShade    :"Insect Screen (default)"
+  ..$ ModelFinsOverhang:"1"
+  ..$ OverhangDepth    :"0"
+  ..$ OverhangDistUp   :"0"
+  ..$ OverhangExL      :"0"
+  ..$ OverhangExR      :"0"
+  ..$ OverhangFlap     :"0"
+  ..$ LeftFinDepth     :"0"
+  ..$ LeftFinTopUp     :"0"
+  ..$ LeftFinDistL     :"0"
+  ..$ LeftFinBotUp     :"0"
+  ..$ RightFinDepth    :"0"
+  ..$ RightFinTopUp    :"0"
+  ..$ RightFinDistR    :"0"
+  ..$ RightFinBotUp    :"0"
+ $ HVACSys        :List of 44
+  ..$ Name                :"HVAC System 1"
+  ..$ Type                :"Other Heating and Cooling System"
+  ..$ Status              :"New"
+  ..$ CFIClVentOption     :"- none -"
+  ..$ CFIClVentFlow       :"0"
+  ..$ CFIClVentPwr        :"0"
+  ..$ CFIClVentAttic      :"Attic "
+  ..$ NumHeatSystemTypes  :"1"
+  ..$ HeatSystemCount     :List of 2
+  .. ..$ text  :"1"
+  .. ..$ .attrs:"0"
+  ..$ HeatSystemCount     :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"1"
+  ..$ HeatSystemCount     :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"2"
+  ..$ HeatSystemCount     :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"3"
+  ..$ HeatSystemCount     :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"4"
+  ..$ HeatSystemCount     :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"5"
+  ..$ HeatSystemCount     :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"6"
+  ..$ HeatSystemCount     :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"7"
+  ..$ HeatSystemCount     :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"8"
+  ..$ HeatSystemCount     :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"9"
+  ..$ HeatSystem          :List of 2
+  .. ..$ text  :"Furn 90"
+  .. ..$ .attrs:"0"
+  ..$ AutoSizeHeatInp     :"1"
+  ..$ HeatDucted          :"1"
+  ..$ NumCoolSystemTypes  :"1"
+  ..$ CoolSystemCount     :List of 2
+  .. ..$ text  :"1"
+  .. ..$ .attrs:"0"
+  ..$ CoolSystemCount     :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"1"
+  ..$ CoolSystemCount     :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"2"
+  ..$ CoolSystemCount     :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"3"
+  ..$ CoolSystemCount     :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"4"
+  ..$ CoolSystemCount     :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"5"
+  ..$ CoolSystemCount     :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"6"
+  ..$ CoolSystemCount     :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"7"
+  ..$ CoolSystemCount     :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"8"
+  ..$ CoolSystemCount     :List of 2
+  .. ..$ text  :"0"
+  .. ..$ .attrs:"9"
+  ..$ CoolSystem          :List of 2
+  .. ..$ text  :"Split 14 11.7"
+  .. ..$ .attrs:"0"
+  ..$ AutoSizeCoolInp     :"1"
+  ..$ CoolDucted          :"1"
+  ..$ NumHtPumpSystemTypes:"0"
+  ..$ HtPumpDucted        :"0"
+  ..$ ServesAsDHWHtr      :"0"
+  ..$ DHWTankVolume       :"50"
+  ..$ DHWIntInsulRVal     :"0"
+  ..$ DHWExtInsulRVal     :"0"
+  ..$ DHWAmbientCond      :"Unconditioned"
+  ..$ DistribSystem       :"Attic Default"
+  ..$ Fan                 :"HVAC Fan 1"
+ $ HVACHeat       :List of 3
+  ..$ Name:"Furn 90"
+  ..$ Type:"CntrlFurnace - Fuel-fired central furnace"
+  ..$ AFUE:"90"
+ $ HVACCool       :List of 10
+  ..$ Name            :"Split 14 11.7"
+  ..$ Type            :"SplitAirCond - Split air conditioning system"
+  ..$ SEER            :"14"
+  ..$ EER             :"11.7"
+  ..$ CFMperTon       :"350"
+  ..$ ACCharge        :"Verified"
+  ..$ RefrigerantType :"R410A"
+  ..$ UseEERinAnalysis:"1"
+  ..$ IsMultiSpeed    :"0"
+  ..$ IsZonal         :"0"
+ $ HVACDist       :List of 23
+  ..$ Name                  :"Attic Default"
+  ..$ Type                  :"Ducts located in attic (Ventilated and Unventilated)"
+  ..$ Status                :"New"
+  ..$ IsVerified            :"0"
+  ..$ DefaultSystem         :"1"
+  ..$ DuctLeakage           :"Sealed and tested"
+  ..$ DuctLeakageVal        :"5"
+  ..$ HasBypassDuct         :"0"
+  ..$ DuctInsRvalOpt        :"8.0"
+  ..$ exDuctInsRvalOpt      :"4.2"
+  ..$ SupplyDuctArea        :"567"
+  ..$ ReturnDuctArea        :"105"
+  ..$ SupplyDuctLoc         :"Attic "
+  ..$ ReturnDuctLoc         :"Attic "
+  ..$ SupplyDuctAttic       :"Attic "
+  ..$ ReturnDuctAttic       :"Attic "
+  ..$ RetDuctInsRvalOpt     :"4.2"
+  ..$ DuctDesign            :"0"
+  ..$ DuctDesignInsRvalue   :"8"
+  ..$ RetDuctDesignInsRvalue:"8"
+  ..$ LowLkgAH              :"0"
+  ..$ AreBuried             :"0"
+  ..$ AreDeeplyBuried       :"0"
+ $ HVACFan        :List of 4
+  ..$ Name         :"HVAC Fan 1"
+  ..$ Type         :"Single Speed PSC Furnace Fan"
+  ..$ DefaultSystem:"0"
+  ..$ WperCFMCool  :"0.58"
+ $ DHWSys         :List of 10
+  ..$ Name            :"DHW System"
+  ..$ SystemType      :"Standard"
+  ..$ MFamDistType    :"Multi-family: No loops or recirc pump"
+  ..$ CentralDHW      :"0"
+  ..$ DHWHeater       :List of 2
+  .. ..$ text  :"Small Instantaneous"
+  .. ..$ .attrs:"0"
+  ..$ HeaterMult      :List of 2
+  .. ..$ text  :"1"
+  .. ..$ .attrs:"0"
+  ..$ UseDefaultLoops :"1"
+  ..$ LoopPipeInsulThk:List of 2
+  .. ..$ text  :"1.5"
+  .. ..$ .attrs:"0"
+  ..$ RecircPipeLoc   :List of 2
+  .. ..$ text  :"Conditioned"
+  .. ..$ .attrs:"0"
+  ..$ SolFracType     :"- none -"
+ $ DHWHeater      :List of 14
+  ..$ Name             :"Small Instantaneous"
+  ..$ HeaterElementType:"Gas"
+  ..$ TankType         :"Small Instantaneous"
+  ..$ HPWH_NEEARated   :"0"
+  ..$ ASHPType         :"- select HPWH type -"
+  ..$ InputRating      :"125000"
+  ..$ EnergyFactor     :"0.82"
+  ..$ TankVolume       :"0"
+  ..$ ExtInsulRVal     :"0"
+  ..$ AmbientCond      :"Unconditioned"
+  ..$ StandbyLossFrac  :"0"
+  ..$ RecovEff         :"70"
+  ..$ HasElecMiniTank  :"0"
+  ..$ ElecMiniTankPower:"0"
