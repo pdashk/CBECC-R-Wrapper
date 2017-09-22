@@ -80,10 +80,14 @@ cbeccXML <- function(y) {
 
 combineLogs <- function(directory = dirName) {
     logs <- list.files(path = dirName, pattern = ".log.csv", full.names = T, include.dirs = F)
-    cbeccResults <- read.csv(logs[1], header = F, stringsAsFactors = F)
+    logList <- list()
+    logList[[logs[[1]]]] <- read.csv(logs[1], header = F, stringsAsFactors = F)
     for (log in logs[-1]) {
-        cbeccResults <- rbind(cbeccResults, read.csv(log, header = F, stringsAsFactors = F)[4,])
+        logList[[log]] <- read.csv(log, header = F, stringsAsFactors = F)[4,]
     }
+    cbeccResults <- do.call("rbind", logList)
+    cbeccResults <- cbeccResults[,-236] #last NA column
+    rownames(cbeccResults) <- c() #remove row names
     return(cbeccResults) 
 } # function to take all .log.csv files and combine with master parameter set
 
@@ -200,7 +204,7 @@ initiate <- function(config, keep.output = TRUE) {
     
     master["XML File"] <- fileList
     names(master) <- gsub(".*\\$","",names(master))
-    
+    a <- resultsHeaderClean(combineLogs(dirName))
     a[," Project Path/File"] <- sapply(a[," Project Path/File"], FUN = gsub, pattern = ".*\\\\|.xml", replacement = "", USE.NAMES = F)
     # 
     # read the CSVs and input results in master sheet
