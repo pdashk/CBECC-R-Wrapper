@@ -7,9 +7,11 @@
 # will read files after all CBECC runs are done
 # run by sourcing cbeccWrapper.R (this file)
 # if CBECC crashes or is closed, then might receive errors before combining
+# XML library needs to be installed. 
+# outputs [config file.R]-[DATE].csv
 
 ## SETUP ------------------------------------------------------------------------------------------
-##load lirbaries, working directory, default variables
+##load libraries, working directory, default variables
 
 library(XML) #required for CBECC inputs (they are in XML format)
 path_to_cbecc_exe <- "C:\\Program Files (x86)\\CBECC-Res 2016\\CBECC-Res16.exe" #default CBECC path
@@ -138,7 +140,7 @@ initiate <- function(config, keep.output = TRUE) {
     startTime <- Sys.time() #start time to see how long whole process takes and to estimate remaining time
     master <- expand.grid(newVars, stringsAsFactors = F) #formulate master final table by permutation of desired parameters and eventually adding in read csv results
     fileList <- vector()
-    dirName <- paste0("testresults-",base_xml) #create directory name for test results
+    dirName <<- paste0("testresults-",base_xml) #create directory name for test results
     dir.create(dirName, showWarnings = FALSE) #create directory to store results
     a <- xmlParse(paste0(base_xml,".xml")) #read base XML file
     progress <- winProgressBar(title = "Running CBECC Automation", label = "Progress", min = 0, max = nrow(master), width = 600) #progress bar
